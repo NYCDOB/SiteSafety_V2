@@ -322,8 +322,8 @@ var width = $("#map").width(),
 				
 			for (var i=0; i < table.rows('.selected').data().length; i++){
 				var selectedRecord = table.rows('.selected').data()[i].BIN;
-				var lat = table.rows('.selected').data()[i].Latitude;
-				var lon = table.rows('.selected').data()[i].Longitude;
+				var lat = table.rows('.selected').data()[i].LAT;
+				var lon = table.rows('.selected').data()[i].LONG;
 				latlong = [lat,lon];
 				console.log(selectedRecord);
 				}
