@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html>
+  <title>Site Safety Professional Locations</title>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' />
+  <link rel="icon" type="image/png" href="logo.png">
+  <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+  <link href='https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css' rel='stylesheet' type='text/css'/>
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.12/r-2.1.0/se-1.2.0/datatables.min.css">
+  <style>
+.dataTables_wrapper .dataTables_processing {
+  background: white;
+  color: #0000ff !important;
+  font-size: 24px;
+  border: 1px solid #28387c !important;
+  border-radius: 3px;
+  height: 75px !important;
+}
+.filterTableButton {
+	margin-right:5px;
+}
+#riskTable_info{
+	font-weight:bolder !important;
+}
+body {
+	background-color: white;
+}
+div.tooltip {
+	font-weight: bold;
+	padding: 10px;
+	border: 2px solid white;
+	border-radius: 7px; 
+	box-shadow: 0px 0px 2px 0px #a6a6a6; 
+	opacity: 0.9; 
+	position: absolute;
+	visibility: hidden;
+	color:white;
+	background-color:RGB(40,56,124);
+}
+#map {
+	height: 100%;
+	width: 100%;
+	background-color: #333;
+	pointer-events: all;
+}
+#table-container{
+	height: 890px;
+	width: 100%;
+	display: block;
+	background-color: white;
+}
+#img{
+	float: left;
+	height: 35px;
+	margin-left: 10px;
+	padding-right: 10px;
+}
+.redPoint{
+	fill: red;
+	background-color: red !important;
+	fill-opacity: .7;
+}
+.zoomedPoint {
+	stroke-width:1px !important;
+	stroke:yellow !important;
+	fill: yellow !important;
+	border: 1px double yellow !important;
+	background-color: yellow !important;
+	fill-opacity: 1;
+	r: 2 !important;
+}
+* [class*='Cat'] :not(circle){
+	color:white !important;
+	font-weight: 900 !important;
+	font-size:1.5em !important;
+	border:solid grey 1px;
+	text-align: center;
+}
+#riskTable{
+	height: 100%;
+	font-size: 10px;
+}
+td.details-control {
+	background: url('https://datatables.net/examples/resources/details_open.png') no-repeat center center;
+}
+tr.shown td.details-control {
+	background: url('https://datatables.net/examples/resources/details_close.png') no-repeat center center;
+}
+.ui {
+	top: 10px;
+	left: 50px;
+	padding: 8px;
+	position: absolute;
+	background-color: #fff;
+	border: 2px solid #707070;
+	border-radius: 7px;
+	width: 175px;
+}
+.dataTables_empty {
+  display:none;
+}
+.asofDate{
+	margin-left:10px;
+	font-size:16px;
+}
+.dataTables_wrapper .dataTables_processing {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 200px;
+  height: 50px;
+  background-color: #fff;
+  border: 2px solid #ddd;
+  border-radius: 4px;
+  margin-left: -100px;
+  margin-top: 100px;
+  text-align: center;
+  padding: 1em 0;
+  z-index: 1;
+}
+navbar-nav > li > a {
+	color:white !important;
+}
+tr:hover[role="row"] td, td tbody:hover tr:hover, td tbody:hover {
+	background-color: #e8e8e8;
+}
+tr[role="row"] > td {
+	cursor: pointer;
+}
+</style>
+<body>
+
+<nav class="navbar navbar-inverse " style="sborder:none;color:white;background-color:RGB(40,56,124);" >
+	<div class="container-fluid">
+		<div class="navbar-header navbar-text" style="sborder:none;color:white;background-color:RGB(40,56,124);font-size:30px">
+			Site Safety Professional Locations <span class="asofDate"></span>
+		</div>		
+		<div class="navbar-header navbar-right" style="sborder:none;color:white;background-color:RGB(40,56,124);font-size:30px">
+			<a class="visible-lg-block visible-md-block" href="https://www1.nyc.gov/site/buildings/about/covid-19-response.page" target="_blank"><img src="https://nycdob.github.io/EssentialActiveConstruction/images/dob_logo_white.png" style="margin-top:auto;width:70px;"> </a>
+		</div>
+	</div>
+</nav>
+
+
+<div class="container-fluid" style="zpadding-top:70px;">
+	<div class="row">
+		  <div class="col-lg-9" style="height:89vh">
+			  <div class="chart-stage" id="map-container" style="border:1px solid black;height:100%;width:100%">
+				<div id="map">
+				</div>
+			  </div>
+		  </div>
+			  <div class="col-lg-3" style="height:89vh">
+				<div class="newchart" style="padding:5px 5px 0px 5px;border:1px solid black;height:100%;width:100%">
+				  <div class="" id="">
+					<table id="riskTable" class="">
+						<thead>
+							<tr>
+								<th></th>
+								<th>ADDRESS</th>
+								<th>BOROUGH</th>
+								<th>BIN</th>
+								<th>Community District</th>
+							</tr>
+						</thead>			
+					</table>
+
+				  </div>
+				</div>
+			  </div>
+	</div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.9/d3.min.js"></script>
+<script src="https://nycdob.github.io/EssentialActiveConstruction/Leaflet.D3SvgOverlay-master/L.D3SvgOverlay.min.js"></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="https://cdn.datatables.net/v/dt/dt-1.10.12/r-2.1.0/se-1.2.0/datatables.min.js"  type="text/javascript" charset="utf8" ></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.6/nv.d3.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/buttons/1.5.6/js/dataTables.buttons.min.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/buttons/1.5.6/js/buttons.html5.min.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/plug-ins/1.10.20/api/fnSortNeutral.js"></script>
+<script>
+
+$(document).ready(function(){
+	var latlong = [];
+	var selection = [];
+    L.Control.include({
+      _refocusOnMap: L.Util.falseFn // Do nothing.
+    });	
+var map = L.map('map').setView([40.713312, -73.977407], 14);
+L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}.png', {attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);
+var tooltip = d3.select('body').append('div')
+	.on('mouseover', function(d, i){
+		tooltip.transition().duration(0);
+	})
+	.on('mouseout', function(d, i){
+		tooltip.transition().delay(500).style('visibility', 'hidden');
+	})
+	.attr('class', 'tooltip');
+var width = $("#map").width(),
+	height = $("#map").height(),
+	points = [],
+	table_map = [],
+	filteredData,
+	latLngs = [];	
+	var pointsOverlay = L.d3SvgOverlay(function(sel,proj){
+	var pointsUpd = sel.selectAll('circle').data(points);	
+	pointsUpd.enter()
+		.append('circle')		
+		.attr("bin",function(d){return d.BIN})
+		.attr('cx',function(d){return proj.latLngToLayerPoint(d.latLng).x;})
+		.attr('cy',function(d){return proj.latLngToLayerPoint(d.latLng).y;})
+		.attr('class', function(d){	return "redPoint"})
+		.on('click', function(d){
+				tooltip.style("visibility", "visible");
+				jobstring='';individualjobs="";
+				tooltip.html(
+					'BIN: ' + [d.BIN] + '</br>' +								
+					'ADDRESS: '+ [d.Address] + ', ' + [d.BOROUGH] + '</br>' +
+					'BLOCK: ' + d["BLOCK"] + '</br>' +
+					'LOT: ' + d["LOT"] + '</br>' +
+					'COMMUNITY DISTRICT: ' + d["CD"] + '</br>' )
+				if (d3.event.pageX > (width - 200)) {
+				   tooltip.style("left", (d3.event.pageX - 350) + "px");
+				} else {
+				   tooltip.style("left", (d3.event.pageX + 20) + "px")
+						.style("top", (d3.event.pageY -30) + "px");
+				}
+				if (d3.event.pageY > (height - 150)) {
+				   tooltip.style("top", (d3.event.pageY -100) + "px");
+				} else {
+				   tooltip.style("top", (d3.event.pageY -30) + "px");
+				}
+		})
+		.on("mouseover", function(d, i){
+			tooltip.transition().duration(0); 
+			$(this).attr("style", "cursor: pointer; fill: #eef442; fill-opacity: 1;");			
+		})
+		.on("mouseout", function(d, i){			
+			$(this).attr("style", "stroke-width: 0px; fill-opacity: .7;");
+			return tooltip.transition().delay(500).style("visibility", "hidden");
+		});
+		pointsUpd.attr('r', 4 / proj.scale);
+
+	});
+	 d3.csv("https://raw.githubusercontent.com/NYCDOB/SiteSafety_V2/gh-pages/data/CSC_RouteList.csv",function(data){
+				points = data.map(function(d){
+				d.latLng = [+d.LAT,+d.LONG];
+				d.bin = [d.BIN];				
+				d.address = [d.Address];
+				d.CD = d["CD"];
+				d.Borough = [d.Borough];
+				d.BLOCK = [d.BLOCK];
+				d.LOT = [d.LOT];				
+				return d;
+			});
+			today=new Date();
+			document.querySelector(".asofDate").textContent="Data Updated "+(today.getMonth()+1)+"/"+today.getDate()+"/"+today.getFullYear();
+			pointsOverlay.addTo(map);
+	});
+	function highlightPoint(r2){
+		a1=document.querySelector("g");
+		a2 = a1.querySelectorAll(".zoomedPoint");
+		for(t=0; t < a2.length; t++) {
+			a2[t].className.baseVal = a2[t].className.baseVal.replace(/\bzoomedPoint\b/g, "");
+		}
+		q1=a1.querySelector('circle[bin="'+r2+'"]');
+		arr = q1.className.baseVal.split(" ");
+		  if (arr.indexOf("zoomedPoint") == -1) {
+			q1.className.baseVal += " " + "zoomedPoint";
+		  }		
+	}
+	function zoomToSelected(latlong){
+			map.setView(latlong,17);
+	}	
+	function zoomFullExtent(){
+		map.setView([40.713312, -73.977407], 14);
+		var u2=document.querySelector(".zoomedPoint");
+		if (u2) {
+			u2.className.baseVal = u2.className.baseVal.replace(/\bzoomedPoint\b/g, "");
+		}
+	}
+	map.on('resize', function(){
+		map.invalidateSize();		
+	});
+	function format(d) {
+		return '<table class="tabDetail" cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">'+
+			'<tr>'+'<td>BIN:</td>'+'<td>'+d["BIN"]+'</td>'+'</tr>'+
+			'<tr>'+'<td>Block:</td>'+'<td>'+d["BLOCK"]+'</td>'+'</tr>'+
+			'<tr>'+'<td>Lot:</td>'+'<td>'+d["LOT"]+'</td>'+'</tr>'+
+			'<tr>'+'<td>Community District:</td>'+'<td>'+d["CD"]+'</td></tr></table>';
+	}	
+	function zoom(lat,lon){
+		map.panTo(new L.LatLng(lat,lon));
+	}	
+	$(function(){
+		var table = $('#riskTable').DataTable({				
+				"ajax": {
+					"url": "https://raw.githubusercontent.com/NYCDOB/SiteSafety_V2/gh-pages/data/CSC_RouteList.json",
+					"dataSrc": ""},
+				language:{search:"_INPUT_",
+				searchPlaceholder:"search BIN, Address...","infoFiltered":"(filtered out of _MAX_)","info":"Total sites: _TOTAL_","processing":"Loading <i class='fa fa-spinner fa-spin' style='font-size:24px;color: #0000ff;'></i>"},	
+				order: [[2, "asc"],[1, "asc"]],				
+				lengthChange: false,
+				"scrollY": "73vh",
+				"scrollCollapse": true,
+				"paging": false,
+				"processing": true,
+				searchDelay: 800,
+				columns: [
+					{
+						"className": 'details-control',
+						"orderable": false,
+						"data": null,
+						"defaultContent": ''
+					},
+					{	data: "Address"
+					},
+					{ 	data: "BOROUGH"
+					},
+					{	data:"BIN","visible":false	
+					},
+					{	data:"BLOCK","visible":false	
+					},
+					{	data:"LOT","visible":false	
+					},
+					{	data:"CD","visible":false	
+					}
+				],				
+				"dom": 'fBrtip',
+				"buttons": [		   
+					{ extend: 'csv',
+					titleAttr: 'Download to CSV',
+					filename: "SiteSafetyLocations",
+					className: "filterTableButton",
+					text: '<i class="fa fa-download" aria-hidden="true"></i>',
+					exportOptions: {modifier: {search: 'none'},columns: 'th:not(:first-child)'}},
+					{titleAttr: 'Reset Table/Map',
+					className: "resetTableButton",
+					text: '<i class="fa fa-refresh" aria-hidden="true"></i>',
+					action: function(){
+							map.invalidateSize();		
+							g1=document.querySelectorAll('circle[style*="display: none;"]');
+							for(t=0;t<g1.length;t++){g1[t].style.display="block";}
+							zoomFullExtent();
+							g1=document.querySelectorAll(".selected");
+							for(t=0;t<g1.length;t++){g1[t].className=g1[t].className.replace(/\bselected\b/g,"");}
+							g1=document.querySelectorAll("tr.shown");
+							for(t=0;t<g1.length;t++){table.row(g1[t]).child.hide();g1[t].className=g1[t].className.replace(/shown/g,"")}
+							table.search("").columns().search("");
+							$('#riskTable').dataTable().fnSortNeutral();
+							}}]                                                                                           
+		});
+		$("table.dataTable").css("font-size", 10);
+		table.columns.adjust().draw();
+		$('#riskTable tbody').on( 'click', 'tr :not(td.details-control)', function (e) {
+			theParent=this.parentNode;
+			if (!theParent.hasAttribute("role")  ) {
+				return; 
+			}			
+			if ( theParent.classList.contains("selected") ) {  
+				theParent.classList.remove('selected');			
+				zoomFullExtent();
+			} else {
+				j2=document.querySelectorAll(".selected");
+				for(j=0;j<j2.length;j++) {
+					j2[j].classList.remove("selected");
+				}
+				$(theParent).addClass('selected');
+				highlightPoint(table.row(this).data().BIN);	
+				mylatlong=[table.row(this).data().LAT,table.row(this).data().LONG]
+				zoomToSelected(mylatlong);
+			}
+		});
+		$('#riskTable tbody').on('click', 'td.details-control', function (e) {
+			var tr = $(this).closest('tr');
+			var row = table.row( tr );
+			if ( row.child.isShown() ) {
+				row.child.hide();
+				tr.removeClass('shown');
+			}
+			else {
+				row.child( format(row.data()) ).show();
+				tr.addClass('shown');
+			}
+		});
+	});	
+});	
+</script>
+</body>
+</html>
