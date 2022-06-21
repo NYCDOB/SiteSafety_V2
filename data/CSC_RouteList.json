@@ -3820,16 +3820,6 @@
 	"BOROUGH": "MANHATTAN"
  },
  {
-	"BIN": "1031993",
-	"Address": "140 WEST 81ST STREET",
-	"CD": "107",
-	"BLOCK": "01211",
-	"LOT": "00050",
-	"LAT": 41.0,
-	"LONG": -74.0,
-	"BOROUGH": "MANHATTAN"
- },
- {
 	"BIN": "1032028",
 	"Address": "120 WEST 82 STREET",
 	"CD": "107",
@@ -15240,16 +15230,6 @@
 	"BOROUGH": "BRONX"
  },
  {
-	"BIN": "2092075",
-	"Address": "1451 WASHINGTON AVENUE",
-	"CD": "203",
-	"BLOCK": "02902",
-	"LOT": "00036",
-	"LAT": 41.0,
-	"LONG": -74.0,
-	"BOROUGH": "BRONX"
- },
- {
 	"BIN": "2092076",
 	"Address": "1458 WEBSTER AVENUE",
 	"CD": "203",
@@ -16195,26 +16175,6 @@
 	"CD": "204",
 	"BLOCK": "02517",
 	"LOT": "00028",
-	"LAT": 41.0,
-	"LONG": -74.0,
-	"BOROUGH": "BRONX"
- },
- {
-	"BIN": "2127265",
-	"Address": "3036 BARNES AVE",
-	"CD": "212",
-	"BLOCK": "04572",
-	"LOT": "00125",
-	"LAT": 41.0,
-	"LONG": -74.0,
-	"BOROUGH": "BRONX"
- },
- {
-	"BIN": "2127266",
-	"Address": "3034 BARNES AVE",
-	"CD": "212",
-	"BLOCK": "04572",
-	"LOT": "00025",
 	"LAT": 41.0,
 	"LONG": -74.0,
 	"BOROUGH": "BRONX"
@@ -17555,16 +17515,6 @@
 	"CD": "206",
 	"BLOCK": "03105",
 	"LOT": "00041",
-	"LAT": 41.0,
-	"LONG": -74.0,
-	"BOROUGH": "BRONX"
- },
- {
-	"BIN": "2130596",
-	"Address": "6201 BROADWAY",
-	"CD": "208",
-	"BLOCK": "05825",
-	"LOT": "01576",
 	"LAT": 41.0,
 	"LONG": -74.0,
 	"BOROUGH": "BRONX"
@@ -30045,6 +29995,16 @@
 	"CD": "313",
 	"BLOCK": "06944",
 	"LOT": "00165",
+	"LAT": 41.0,
+	"LONG": -74.0,
+	"BOROUGH": "BROOKLYN"
+ },
+ {
+	"BIN": "3188137",
+	"Address": "3841 CYPRESS AVENUE",
+	"CD": "313",
+	"BLOCK": "06960",
+	"LOT": "00059",
 	"LAT": 41.0,
 	"LONG": -74.0,
 	"BOROUGH": "BROOKLYN"
