@@ -4420,16 +4420,6 @@
 	"BOROUGH": "MANHATTAN"
  },
  {
-	"BIN": "1035377",
-	"Address": "350 MADISON AVENUE",
-	"CD": "105",
-	"BLOCK": "01279",
-	"LOT": "00057",
-	"LAT": 40.7546997,
-	"LONG": -73.9784088,
-	"BOROUGH": "MANHATTAN"
- },
- {
 	"BIN": "1035385",
 	"Address": "420 LEXINGTON AVENUE",
 	"CD": "105",
@@ -9417,16 +9407,6 @@
 	"LOT": "07503",
 	"LAT": 40.7715988,
 	"LONG": -73.9894028,
-	"BOROUGH": "MANHATTAN"
- },
- {
-	"BIN": "1087705",
-	"Address": "100 RIVERSIDE BOULEVARD",
-	"CD": "107",
-	"BLOCK": "01171",
-	"LOT": "07505",
-	"LAT": 40.7756996,
-	"LONG": -73.9894867,
 	"BOROUGH": "MANHATTAN"
  },
  {
@@ -15017,16 +14997,6 @@
 	"LOT": "00331",
 	"LAT": 40.8468399,
 	"LONG": -73.8232193,
-	"BOROUGH": "BRONX"
- },
- {
-	"BIN": "2077030",
-	"Address": "3757 EAST TREMONT AVENUE",
-	"CD": "210",
-	"BLOCK": "05435",
-	"LOT": "00022",
-	"LAT": 40.8259506,
-	"LONG": -73.8209686,
 	"BOROUGH": "BRONX"
  },
  {
@@ -24740,6 +24710,16 @@
 	"BOROUGH": "BROOKLYN"
  },
  {
+	"BIN": "3068046",
+	"Address": "29 FROST STREET",
+	"CD": "301",
+	"BLOCK": "02731",
+	"LOT": "00037",
+	"LAT": 40.717701,
+	"LONG": -73.950943,
+	"BOROUGH": "BROOKLYN"
+ },
+ {
 	"BIN": "3068099",
 	"Address": "444 GRAHAM AVENUE",
 	"CD": "301",
@@ -30187,16 +30167,6 @@
 	"LOT": "00001",
 	"LAT": 40.5876083,
 	"LONG": -73.9853668,
-	"BOROUGH": "BROOKLYN"
- },
- {
-	"BIN": "3187422",
-	"Address": "128 BAY   50 STREET",
-	"CD": "313",
-	"BLOCK": "06917",
-	"LOT": "00042",
-	"LAT": 40.5862694,
-	"LONG": -73.986763,
 	"BOROUGH": "BROOKLYN"
  },
  {
@@ -41220,16 +41190,6 @@
 	"BOROUGH": "QUEENS"
  },
  {
-	"BIN": "4011228",
-	"Address": "30-87 STEINWAY STREET",
-	"CD": "401",
-	"BLOCK": "00680",
-	"LOT": "00010",
-	"LAT": 40.7616005,
-	"LONG": -73.9164963,
-	"BOROUGH": "QUEENS"
- },
- {
 	"BIN": "4011242",
 	"Address": "30-55 STEINWAY STREET",
 	"CD": "401",
@@ -49410,16 +49370,6 @@
 	"BOROUGH": "QUEENS"
  },
  {
-	"BIN": "4249160",
-	"Address": "109-25 111 STREET",
-	"CD": "410",
-	"BLOCK": "11592",
-	"LOT": "00055",
-	"LAT": 40.6796494,
-	"LONG": -73.8283005,
-	"BOROUGH": "QUEENS"
- },
- {
 	"BIN": "4250086",
 	"Address": "109-31 134TH STREET",
 	"CD": "410",
@@ -55237,16 +55187,6 @@
 	"LOT": "00002",
 	"LAT": 40.7290916,
 	"LONG": -73.8955765,
-	"BOROUGH": "QUEENS"
- },
- {
-	"BIN": "4623651",
-	"Address": "1454 31 AVE",
-	"CD": "401",
-	"BLOCK": "00533",
-	"LOT": "00045",
-	"LAT": 40.7672501,
-	"LONG": -73.9303436,
 	"BOROUGH": "QUEENS"
  },
  {
