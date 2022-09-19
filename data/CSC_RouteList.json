@@ -7320,16 +7320,6 @@
 	"BOROUGH": "MANHATTAN"
  },
  {
-	"BIN": "1052268",
-	"Address": "116 E 116 ST",
-	"CD": "111",
-	"BLOCK": "01643",
-	"LOT": "00063",
-	"LAT": 40.7986908,
-	"LONG": -73.9425201,
-	"BOROUGH": "MANHATTAN"
- },
- {
 	"BIN": "1052455",
 	"Address": "2005 THIRD AVENUE",
 	"CD": "111",
@@ -20210,6 +20200,16 @@
 	"BOROUGH": "BROOKLYN"
  },
  {
+	"BIN": "3006960",
+	"Address": "477 SACKETT STREET",
+	"CD": "306",
+	"BLOCK": "00423",
+	"LOT": "00041",
+	"LAT": 40.6808205,
+	"LONG": -73.9891129,
+	"BOROUGH": "BROOKLYN"
+ },
+ {
 	"BIN": "3006984",
 	"Address": "270 NEVINS STREET",
 	"CD": "306",
@@ -20307,16 +20307,6 @@
 	"LOT": "00001",
 	"LAT": 40.6787796,
 	"LONG": -73.9899902,
-	"BOROUGH": "BROOKLYN"
- },
- {
-	"BIN": "3007509",
-	"Address": "445 CARROLL STREET",
-	"CD": "306",
-	"BLOCK": "00447",
-	"LOT": "00053",
-	"LAT": 40.6777306,
-	"LONG": -73.9873734,
 	"BOROUGH": "BROOKLYN"
  },
  {
@@ -34317,16 +34307,6 @@
 	"LOT": "00034",
 	"LAT": 40.6696587,
 	"LONG": -74.0024338,
-	"BOROUGH": "BROOKLYN"
- },
- {
-	"BIN": "3336717",
-	"Address": "160 17TH STREET",
-	"CD": "307",
-	"BLOCK": "00630",
-	"LOT": "00022",
-	"LAT": 40.6652489,
-	"LONG": -73.9943619,
 	"BOROUGH": "BROOKLYN"
  },
  {
@@ -57527,16 +57507,6 @@
 	"LOT": "00136",
 	"LAT": 40.5867805,
 	"LONG": -74.0969467,
-	"BOROUGH": "STATEN ISLAND"
- },
- {
-	"BIN": "5051557",
-	"Address": "70 BEDFORD AVENUE",
-	"CD": "502",
-	"BLOCK": "03579",
-	"LOT": "00020",
-	"LAT": 40.5815201,
-	"LONG": -74.1075974,
 	"BOROUGH": "STATEN ISLAND"
  },
  {
