@@ -1071,7 +1071,7 @@
  },
  {
 	"BIN": "1009288",
-	"Address": "29 EAST   11 STREET",
+	"Address": "29 EAST 11 STREET",
 	"CD": "102",
 	"BLOCK": "00569",
 	"LOT": "00029",
@@ -5927,16 +5927,6 @@
 	"LOT": "00001",
 	"LAT": 40.7680588,
 	"LONG": -73.9655228,
-	"BOROUGH": "MANHATTAN"
- },
- {
-	"BIN": "1042478",
-	"Address": "921 LEXINGTON AVENUE",
-	"CD": "108",
-	"BLOCK": "01402",
-	"LOT": "00049",
-	"LAT": 40.7675209,
-	"LONG": -73.9638672,
 	"BOROUGH": "MANHATTAN"
  },
  {
@@ -15592,16 +15582,6 @@
  {
 	"BIN": "2092076",
 	"Address": "1458 WEBSTER AVENUE",
-	"CD": "203",
-	"BLOCK": "02895",
-	"LOT": "00001",
-	"LAT": 40.8371201,
-	"LONG": -73.9060287,
-	"BOROUGH": "BRONX"
- },
- {
-	"BIN": "2092077",
-	"Address": "1428 WEBSTER AVENUE",
 	"CD": "203",
 	"BLOCK": "02895",
 	"LOT": "00001",
@@ -45887,6 +45867,16 @@
 	"LOT": "00053",
 	"LAT": 40.7269516,
 	"LONG": -73.7292023,
+	"BOROUGH": "QUEENS"
+ },
+ {
+	"BIN": "4167581",
+	"Address": "241-21 BRADDOCK AVENUE",
+	"CD": "413",
+	"BLOCK": "07989",
+	"LOT": "00003",
+	"LAT": 40.7265396,
+	"LONG": -73.7265396,
 	"BOROUGH": "QUEENS"
  },
  {
