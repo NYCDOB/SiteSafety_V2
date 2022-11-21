@@ -3241,7 +3241,7 @@
  },
  {
 	"BIN": "1024785",
-	"Address": "250 WEST 49TH STREET",
+	"Address": "250 WEST   49 STREET",
 	"CD": "105",
 	"BLOCK": "01020",
 	"LOT": "00059",
@@ -4657,16 +4657,6 @@
 	"LOT": "00008",
 	"LAT": 40.7622414,
 	"LONG": -73.9776535,
-	"BOROUGH": "MANHATTAN"
- },
- {
-	"BIN": "1034792",
-	"Address": "33 WEST   54 STREET",
-	"CD": "105",
-	"BLOCK": "01270",
-	"LOT": "00015",
-	"LAT": 40.7620392,
-	"LONG": -73.9771881,
 	"BOROUGH": "MANHATTAN"
  },
  {
@@ -8371,13 +8361,13 @@
  },
  {
 	"BIN": "1064528",
-	"Address": "170 WEST 225TH STREET",
+	"Address": "170 WEST  225 STREET",
 	"CD": "208",
 	"BLOCK": "02215",
 	"LOT": "00065",
 	"LAT": 40.8756485,
 	"LONG": -73.9130783,
-	"BOROUGH": "MANHATTAN"
+	"BOROUGH": "BRONX"
  },
  {
 	"BIN": "1064532",
@@ -19840,16 +19830,6 @@
 	"BOROUGH": "BROOKLYN"
  },
  {
-	"BIN": "3006602",
-	"Address": "241 DOUGLASS STREET",
-	"CD": "306",
-	"BLOCK": "00412",
-	"LOT": "00050",
-	"LAT": 40.6810608,
-	"LONG": -73.9854584,
-	"BOROUGH": "BROOKLYN"
- },
- {
 	"BIN": "3006603",
 	"Address": "236 BUTLER STREET",
 	"CD": "306",
@@ -20007,16 +19987,6 @@
 	"LOT": "00012",
 	"LAT": 40.6800117,
 	"LONG": -73.9886093,
-	"BOROUGH": "BROOKLYN"
- },
- {
-	"BIN": "3007199",
-	"Address": "577 UNION STREET",
-	"CD": "306",
-	"BLOCK": "00433",
-	"LOT": "00028",
-	"LAT": 40.678791,
-	"LONG": -73.9856491,
 	"BOROUGH": "BROOKLYN"
  },
  {
@@ -21227,16 +21197,6 @@
 	"LOT": "00069",
 	"LAT": 40.6655884,
 	"LONG": -73.9853363,
-	"BOROUGH": "BROOKLYN"
- },
- {
-	"BIN": "3023350",
-	"Address": "188 13 STREET",
-	"CD": "306",
-	"BLOCK": "01033",
-	"LOT": "00024",
-	"LAT": 40.6682014,
-	"LONG": -73.9917908,
 	"BOROUGH": "BROOKLYN"
  },
  {
@@ -25987,16 +25947,6 @@
 	"LOT": "00035",
 	"LAT": 40.6689415,
 	"LONG": -73.9141693,
-	"BOROUGH": "BROOKLYN"
- },
- {
-	"BIN": "3080996",
-	"Address": "203 SUTTER AVENUE",
-	"CD": "316",
-	"BLOCK": "03518",
-	"LOT": "00070",
-	"LAT": 40.6669617,
-	"LONG": -73.9132919,
 	"BOROUGH": "BROOKLYN"
  },
  {
@@ -33670,16 +33620,6 @@
 	"BOROUGH": "BROOKLYN"
  },
  {
-	"BIN": "3336227",
-	"Address": "403 CARROLL STREET",
-	"CD": "306",
-	"BLOCK": "00439",
-	"LOT": "00001",
-	"LAT": 40.6786308,
-	"LONG": -73.9882813,
-	"BOROUGH": "BROOKLYN"
- },
- {
 	"BIN": "3336293",
 	"Address": "4802 10 AVENUE",
 	"CD": "312",
@@ -38820,16 +38760,6 @@
 	"BOROUGH": "BROOKLYN"
  },
  {
-	"BIN": "3800488",
-	"Address": "42 5TH STREET",
-	"CD": "306",
-	"BLOCK": "00471",
-	"LOT": "00001",
-	"LAT": 40.6768799,
-	"LONG": -73.9952164,
-	"BOROUGH": "BROOKLYN"
- },
- {
 	"BIN": "3801520",
 	"Address": "213 26 STREET",
 	"CD": "307",
@@ -39927,16 +39857,6 @@
 	"LOT": "00024",
 	"LAT": 40.7683907,
 	"LONG": -73.9317169,
-	"BOROUGH": "QUEENS"
- },
- {
-	"BIN": "4006037",
-	"Address": "30-12 21ST STREET",
-	"CD": "401",
-	"BLOCK": "00536",
-	"LOT": "00048",
-	"LAT": 40.76968,
-	"LONG": -73.9283981,
 	"BOROUGH": "QUEENS"
  },
  {
@@ -42720,16 +42640,6 @@
 	"BOROUGH": "QUEENS"
  },
  {
-	"BIN": "4101392",
-	"Address": "145-70 4 AVENUE",
-	"CD": "407",
-	"BLOCK": "04452",
-	"LOT": "00027",
-	"LAT": 40.7952118,
-	"LONG": -73.8230972,
-	"BOROUGH": "QUEENS"
- },
- {
 	"BIN": "4101429",
 	"Address": "145-76 5 AVENUE",
 	"CD": "407",
@@ -43657,16 +43567,6 @@
 	"LOT": "00033",
 	"LAT": 40.7645607,
 	"LONG": -73.7993469,
-	"BOROUGH": "QUEENS"
- },
- {
-	"BIN": "4120093",
-	"Address": "36-19 193 STREET",
-	"CD": "411",
-	"BLOCK": "05315",
-	"LOT": "00013",
-	"LAT": 40.7633018,
-	"LONG": -73.7889862,
 	"BOROUGH": "QUEENS"
  },
  {
@@ -45687,16 +45587,6 @@
 	"LOT": "00030",
 	"LAT": 40.7493896,
 	"LONG": -73.7810364,
-	"BOROUGH": "QUEENS"
- },
- {
-	"BIN": "4158515",
-	"Address": "50-19 FRANCIS LEWIS BOULEVARD",
-	"CD": "411",
-	"BLOCK": "07377",
-	"LOT": "00053",
-	"LAT": 40.7498398,
-	"LONG": -73.7784424,
 	"BOROUGH": "QUEENS"
  },
  {
@@ -59187,16 +59077,6 @@
 	"LOT": "00012",
 	"LAT": 40.5937996,
 	"LONG": -74.1615524,
-	"BOROUGH": "STATEN ISLAND"
- },
- {
-	"BIN": "5175136",
-	"Address": "105 GAR BRIGHTON AVENUE",
-	"CD": "501",
-	"BLOCK": "00085",
-	"LOT": "00045",
-	"LAT": 40.635891,
-	"LONG": -74.0894318,
 	"BOROUGH": "STATEN ISLAND"
  },
  {
