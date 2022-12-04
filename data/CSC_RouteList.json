@@ -3940,6 +3940,16 @@
 	"BOROUGH": "MANHATTAN"
  },
  {
+	"BIN": "1031543",
+	"Address": "609 COLUMBUS AVE",
+	"CD": "107",
+	"BLOCK": "01203",
+	"LOT": "00001",
+	"LAT": 40.7886009,
+	"LONG": -73.9701309,
+	"BOROUGH": "MANHATTAN"
+ },
+ {
 	"BIN": "1031607",
 	"Address": "300 CENTRAL PARK WEST",
 	"CD": "107",
@@ -4907,16 +4917,6 @@
 	"LOT": "00043",
 	"LAT": 40.7546997,
 	"LONG": -73.9725876,
-	"BOROUGH": "MANHATTAN"
- },
- {
-	"BIN": "1036223",
-	"Address": "299 PARK AVENUE",
-	"CD": "105",
-	"BLOCK": "01303",
-	"LOT": "00001",
-	"LAT": 40.7560196,
-	"LONG": -73.9741364,
 	"BOROUGH": "MANHATTAN"
  },
  {
@@ -8970,6 +8970,16 @@
 	"BOROUGH": "MANHATTAN"
  },
  {
+	"BIN": "1078861",
+	"Address": "230 WEST   55 STREET",
+	"CD": "105",
+	"BLOCK": "01026",
+	"LOT": "07502",
+	"LAT": 40.7646904,
+	"LONG": -73.9826965,
+	"BOROUGH": "MANHATTAN"
+ },
+ {
 	"BIN": "1078884",
 	"Address": "1301 5TH AVENUE",
 	"CD": "111",
@@ -10587,16 +10597,6 @@
 	"LOT": "00200",
 	"LAT": 40.7191391,
 	"LONG": -73.9734116,
-	"BOROUGH": "MANHATTAN"
- },
- {
-	"BIN": "1089452",
-	"Address": "525 EAST   72 STREET",
-	"CD": "108",
-	"BLOCK": "01484",
-	"LOT": "00016",
-	"LAT": 40.7664986,
-	"LONG": -73.9515305,
 	"BOROUGH": "MANHATTAN"
  },
  {
@@ -20480,16 +20480,6 @@
 	"BOROUGH": "BROOKLYN"
  },
  {
-	"BIN": "3020382",
-	"Address": "703 CARROLL STREET",
-	"CD": "306",
-	"BLOCK": "00960",
-	"LOT": "00060",
-	"LAT": 40.6739693,
-	"LONG": -73.9776993,
-	"BOROUGH": "BROOKLYN"
- },
- {
 	"BIN": "3020389",
 	"Address": "576 CARROLL STREET",
 	"CD": "306",
@@ -21177,16 +21167,6 @@
 	"LOT": "00072",
 	"LAT": 40.6759605,
 	"LONG": -73.9548416,
-	"BOROUGH": "BROOKLYN"
- },
- {
-	"BIN": "3030684",
-	"Address": "653 ST MARKS AVENUE",
-	"CD": "308",
-	"BLOCK": "01219",
-	"LOT": "00063",
-	"LAT": 40.67556,
-	"LONG": -73.9514618,
 	"BOROUGH": "BROOKLYN"
  },
  {
@@ -22260,16 +22240,6 @@
 	"BOROUGH": "BROOKLYN"
  },
  {
-	"BIN": "3051543",
-	"Address": "1161 BEDFORD AVENUE",
-	"CD": "303",
-	"BLOCK": "01822",
-	"LOT": "00003",
-	"LAT": 40.6838493,
-	"LONG": -73.9536896,
-	"BOROUGH": "BROOKLYN"
- },
- {
 	"BIN": "3051641",
 	"Address": "832 MARCY AVE.",
 	"CD": "303",
@@ -22930,18 +22900,8 @@
 	"BOROUGH": "BROOKLYN"
  },
  {
-	"BIN": "3057892",
-	"Address": "1053 ATLANTIC AVENUE",
-	"CD": "303",
-	"BLOCK": "02020",
-	"LOT": "00068",
-	"LAT": 40.6798515,
-	"LONG": -73.9567032,
-	"BOROUGH": "BROOKLYN"
- },
- {
 	"BIN": "3057893",
-	"Address": "1051 ATLANTIC AVENUE",
+	"Address": "1045 ATLANTIC AVENUE",
 	"CD": "303",
 	"BLOCK": "02020",
 	"LOT": "00068",
@@ -25720,16 +25680,6 @@
 	"BOROUGH": "BROOKLYN"
  },
  {
-	"BIN": "3099118",
-	"Address": "906 EAST NEW YORK AVENUE",
-	"CD": "309",
-	"BLOCK": "04588",
-	"LOT": "00076",
-	"LAT": 40.6624603,
-	"LONG": -73.9326172,
-	"BOROUGH": "BROOKLYN"
- },
- {
 	"BIN": "3099127",
 	"Address": "837 MAPLE STREET",
 	"CD": "309",
@@ -28230,16 +28180,6 @@
 	"BOROUGH": "BROOKLYN"
  },
  {
-	"BIN": "3171011",
-	"Address": "957 EAST   10 STREET",
-	"CD": "312",
-	"BLOCK": "06523",
-	"LOT": "00061",
-	"LAT": 40.6256599,
-	"LONG": -73.9660797,
-	"BOROUGH": "BROOKLYN"
- },
- {
 	"BIN": "3171135",
 	"Address": "1053 OCEAN PARKWAY",
 	"CD": "312",
@@ -28297,16 +28237,6 @@
 	"LOT": "00011",
 	"LAT": 40.6214714,
 	"LONG": -73.9660263,
-	"BOROUGH": "BROOKLYN"
- },
- {
-	"BIN": "3171887",
-	"Address": "1266 EAST    9 STREET",
-	"CD": "312",
-	"BLOCK": "06544",
-	"LOT": "00036",
-	"LAT": 40.6181297,
-	"LONG": -73.9661713,
 	"BOROUGH": "BROOKLYN"
  },
  {
@@ -28580,16 +28510,6 @@
 	"BOROUGH": "BROOKLYN"
  },
  {
-	"BIN": "3178313",
-	"Address": "4 LLOYD COURT",
-	"CD": "311",
-	"BLOCK": "06678",
-	"LOT": "00001",
-	"LAT": 40.6025505,
-	"LONG": -73.9755707,
-	"BOROUGH": "BROOKLYN"
- },
- {
 	"BIN": "3178359",
 	"Address": "38 KINGS PLACE",
 	"CD": "311",
@@ -28597,16 +28517,6 @@
 	"LOT": "00088",
 	"LAT": 40.603611,
 	"LONG": -73.9753113,
-	"BOROUGH": "BROOKLYN"
- },
- {
-	"BIN": "3178530",
-	"Address": "347 AVENUE S",
-	"CD": "315",
-	"BLOCK": "06681",
-	"LOT": "00002",
-	"LAT": 40.6020088,
-	"LONG": -73.9721909,
 	"BOROUGH": "BROOKLYN"
  },
  {
@@ -29027,16 +28937,6 @@
 	"LOT": "00015",
 	"LAT": 40.6022491,
 	"LONG": -73.9631729,
-	"BOROUGH": "BROOKLYN"
- },
- {
-	"BIN": "3191435",
-	"Address": "251 LAKE STREET",
-	"CD": "311",
-	"BLOCK": "07103",
-	"LOT": "00058",
-	"LAT": 40.5979309,
-	"LONG": -73.9736862,
 	"BOROUGH": "BROOKLYN"
  },
  {
@@ -31200,16 +31100,6 @@
 	"BOROUGH": "BROOKLYN"
  },
  {
-	"BIN": "3326061",
-	"Address": "4 GRAHAM AVENUE",
-	"CD": "301",
-	"BLOCK": "03127",
-	"LOT": "00001",
-	"LAT": 40.7011909,
-	"LONG": -73.9415894,
-	"BOROUGH": "BROOKLYN"
- },
- {
 	"BIN": "3326077",
 	"Address": "21 GARDEN STREET",
 	"CD": "304",
@@ -31607,16 +31497,6 @@
 	"LOT": "00028",
 	"LAT": 40.6110802,
 	"LONG": -73.9629364,
-	"BOROUGH": "BROOKLYN"
- },
- {
-	"BIN": "3329186",
-	"Address": "1887 MC DONALD AVENUE",
-	"CD": "315",
-	"BLOCK": "06633",
-	"LOT": "00045",
-	"LAT": 40.6068993,
-	"LONG": -73.9722595,
 	"BOROUGH": "BROOKLYN"
  },
  {
@@ -47080,16 +46960,6 @@
 	"BOROUGH": "QUEENS"
  },
  {
-	"BIN": "4282119",
-	"Address": "220-01 138 ROAD",
-	"CD": "413",
-	"BLOCK": "13134",
-	"LOT": "00140",
-	"LAT": 40.6734009,
-	"LONG": -73.7523422,
-	"BOROUGH": "QUEENS"
- },
- {
 	"BIN": "4282838",
 	"Address": "135-28 FRANCIS LEWIS BOULEVARD",
 	"CD": "413",
@@ -51050,16 +50920,6 @@
 	"BOROUGH": "QUEENS"
  },
  {
-	"BIN": "4619099",
-	"Address": "132-77 METROPOLITAN AVENUE",
-	"CD": "409",
-	"BLOCK": "09285",
-	"LOT": "00090",
-	"LAT": 40.7028809,
-	"LONG": -73.8175964,
-	"BOROUGH": "QUEENS"
- },
- {
 	"BIN": "4619106",
 	"Address": "11-37 31 AVENUE",
 	"CD": "401",
@@ -53590,16 +53450,6 @@
 	"BOROUGH": "STATEN ISLAND"
  },
  {
-	"BIN": "5018335",
-	"Address": "53 BRADLEY AVENUE",
-	"CD": "501",
-	"BLOCK": "00724",
-	"LOT": "00068",
-	"LAT": 40.6109505,
-	"LONG": -74.1320038,
-	"BOROUGH": "STATEN ISLAND"
- },
- {
 	"BIN": "5018478",
 	"Address": "2140 VICTORY BOULEVARD",
 	"CD": "501",
@@ -54977,6 +54827,16 @@
 	"LOT": "00041",
 	"LAT": 40.5439606,
 	"LONG": -74.1693573,
+	"BOROUGH": "STATEN ISLAND"
+ },
+ {
+	"BIN": "5074077",
+	"Address": "25 SERRELL AVE",
+	"CD": "503",
+	"BLOCK": "05599",
+	"LOT": "00015",
+	"LAT": 40.547821,
+	"LONG": -74.1680069,
 	"BOROUGH": "STATEN ISLAND"
  },
  {
@@ -56567,16 +56427,6 @@
 	"LOT": "00039",
 	"LAT": 40.6261101,
 	"LONG": -74.0761871,
-	"BOROUGH": "STATEN ISLAND"
- },
- {
-	"BIN": "5174558",
-	"Address": "831 ARTHUR KILL ROAD",
-	"CD": "502",
-	"BLOCK": "05570",
-	"LOT": "00001",
-	"LAT": 40.563179,
-	"LONG": -74.1666718,
 	"BOROUGH": "STATEN ISLAND"
  },
  {
