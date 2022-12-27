@@ -3750,6 +3750,16 @@
 	"BOROUGH": "MANHATTAN"
  },
  {
+	"BIN": "1030348",
+	"Address": "200 WEST   70 STREET",
+	"CD": "107",
+	"BLOCK": "01158",
+	"LOT": "00033",
+	"LAT": 40.7772598,
+	"LONG": -73.983078,
+	"BOROUGH": "MANHATTAN"
+ },
+ {
 	"BIN": "1030352",
 	"Address": "200 WEST END AVENUE",
 	"CD": "107",
@@ -11387,16 +11397,6 @@
 	"LOT": "00112",
 	"LAT": 40.8687401,
 	"LONG": -73.9241028,
-	"BOROUGH": "MANHATTAN"
- },
- {
-	"BIN": "1091580",
-	"Address": "267 W 126 STREET",
-	"CD": "110",
-	"BLOCK": "01932",
-	"LOT": "00005",
-	"LAT": 40.8107796,
-	"LONG": -73.9499435,
 	"BOROUGH": "MANHATTAN"
  },
  {
@@ -45110,6 +45110,16 @@
 	"BOROUGH": "QUEENS"
  },
  {
+	"BIN": "4228593",
+	"Address": "88-28 212 PLACE",
+	"CD": "413",
+	"BLOCK": "10669",
+	"LOT": "00105",
+	"LAT": 40.7243614,
+	"LONG": -73.7527771,
+	"BOROUGH": "QUEENS"
+ },
+ {
 	"BIN": "4228908",
 	"Address": "87-04 215 PLACE",
 	"CD": "413",
@@ -50220,16 +50230,6 @@
 	"BOROUGH": "QUEENS"
  },
  {
-	"BIN": "4618318",
-	"Address": "52-03 CENTER BOULEVARD",
-	"CD": "402",
-	"BLOCK": "00006",
-	"LOT": "07504",
-	"LAT": 40.7419205,
-	"LONG": -73.9595566,
-	"BOROUGH": "QUEENS"
- },
- {
 	"BIN": "4618319",
 	"Address": "14-35 BROADWAY",
 	"CD": "401",
@@ -52767,16 +52767,6 @@
 	"LOT": "00085",
 	"LAT": 40.6227303,
 	"LONG": -74.0832291,
-	"BOROUGH": "STATEN ISLAND"
- },
- {
-	"BIN": "5015153",
-	"Address": "50 BERTHA PLACE",
-	"CD": "501",
-	"BLOCK": "00590",
-	"LOT": "00077",
-	"LAT": 40.6249695,
-	"LONG": -74.0921021,
 	"BOROUGH": "STATEN ISLAND"
  },
  {
