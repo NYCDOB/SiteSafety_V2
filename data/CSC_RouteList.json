@@ -2690,16 +2690,6 @@
 	"BOROUGH": "MANHATTAN"
  },
  {
-	"BIN": "1019166",
-	"Address": "77 PARK AVENUE",
-	"CD": "106",
-	"BLOCK": "00894",
-	"LOT": "07501",
-	"LAT": 40.7498398,
-	"LONG": -73.9786835,
-	"BOROUGH": "MANHATTAN"
- },
- {
 	"BIN": "1019460",
 	"Address": "99 PARK AVENUE",
 	"CD": "106",
@@ -10237,6 +10227,16 @@
 	"LOT": "00010",
 	"LAT": 40.7583694,
 	"LONG": -73.9519272,
+	"BOROUGH": "MANHATTAN"
+ },
+ {
+	"BIN": "1088864",
+	"Address": "130 WEST   12 STREET",
+	"CD": "102",
+	"BLOCK": "00607",
+	"LOT": "07502",
+	"LAT": 40.7362595,
+	"LONG": -73.9989471,
 	"BOROUGH": "MANHATTAN"
  },
  {
@@ -23550,6 +23550,16 @@
 	"BOROUGH": "BROOKLYN"
  },
  {
+	"BIN": "3068821",
+	"Address": "67 DEVOE STREET",
+	"CD": "301",
+	"BLOCK": "02762",
+	"LOT": "00029",
+	"LAT": 40.7136116,
+	"LONG": -73.9485016,
+	"BOROUGH": "BROOKLYN"
+ },
+ {
 	"BIN": "3068842",
 	"Address": "668 METROPOLITAN AVENUE",
 	"CD": "301",
@@ -23667,16 +23677,6 @@
 	"LOT": "00010",
 	"LAT": 40.7111206,
 	"LONG": -73.9468765,
-	"BOROUGH": "BROOKLYN"
- },
- {
-	"BIN": "3069609",
-	"Address": "738 GRAND STREET",
-	"CD": "301",
-	"BLOCK": "02789",
-	"LOT": "07501",
-	"LAT": 40.7114487,
-	"LONG": -73.9433289,
 	"BOROUGH": "BROOKLYN"
  },
  {
@@ -24187,16 +24187,6 @@
 	"LOT": "00027",
 	"LAT": 40.6874199,
 	"LONG": -73.9155273,
-	"BOROUGH": "BROOKLYN"
- },
- {
-	"BIN": "3078184",
-	"Address": "23 WEIRFIELD ST",
-	"CD": "304",
-	"BLOCK": "03394",
-	"LOT": "00051",
-	"LAT": 40.686779,
-	"LONG": -73.9157104,
 	"BOROUGH": "BROOKLYN"
  },
  {
@@ -31950,16 +31940,6 @@
 	"BOROUGH": "BROOKLYN"
  },
  {
-	"BIN": "3411833",
-	"Address": "186 FORCE TUBE AVENUE",
-	"CD": "305",
-	"BLOCK": "04124",
-	"LOT": "00031",
-	"LAT": 40.6824112,
-	"LONG": -73.8785477,
-	"BOROUGH": "BROOKLYN"
- },
- {
 	"BIN": "3412182",
 	"Address": "3308 GAR GLENWOOD RD",
 	"CD": "317",
@@ -38957,16 +38937,6 @@
 	"LOT": "00087",
 	"LAT": 40.7922592,
 	"LONG": -73.8204117,
-	"BOROUGH": "QUEENS"
- },
- {
-	"BIN": "4102055",
-	"Address": "148-14 10 AVENUE",
-	"CD": "407",
-	"BLOCK": "04480",
-	"LOT": "00006",
-	"LAT": 40.7915382,
-	"LONG": -73.8178635,
 	"BOROUGH": "QUEENS"
  },
  {
