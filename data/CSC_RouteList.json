@@ -1910,16 +1910,6 @@
 	"BOROUGH": "MANHATTAN"
  },
  {
-	"BIN": "1014024",
-	"Address": "231 WEST 20TH STREET",
-	"CD": "104",
-	"BLOCK": "00770",
-	"LOT": "00023",
-	"LAT": 40.7429886,
-	"LONG": -73.9983292,
-	"BOROUGH": "MANHATTAN"
- },
- {
 	"BIN": "1014031",
 	"Address": "217 WEST 20TH STREET",
 	"CD": "104",
@@ -6730,6 +6720,16 @@
 	"BOROUGH": "MANHATTAN"
  },
  {
+	"BIN": "1047948",
+	"Address": "1035 PARK AVENUE",
+	"CD": "108",
+	"BLOCK": "01514",
+	"LOT": "00069",
+	"LAT": 40.7798119,
+	"LONG": -73.9570618,
+	"BOROUGH": "MANHATTAN"
+ },
+ {
 	"BIN": "1047951",
 	"Address": "1045 PARK AVENUE",
 	"CD": "108",
@@ -7867,16 +7867,6 @@
 	"LOT": "00047",
 	"LAT": 40.8243713,
 	"LONG": -73.9467773,
-	"BOROUGH": "MANHATTAN"
- },
- {
-	"BIN": "1061423",
-	"Address": "419 WEST  146 STREET",
-	"CD": "109",
-	"BLOCK": "02061",
-	"LOT": "00124",
-	"LAT": 40.8252411,
-	"LONG": -73.9449387,
 	"BOROUGH": "MANHATTAN"
  },
  {
@@ -22957,6 +22947,16 @@
 	"LOT": "00013",
 	"LAT": 40.7158394,
 	"LONG": -73.9633408,
+	"BOROUGH": "BROOKLYN"
+ },
+ {
+	"BIN": "3062600",
+	"Address": "103 GRAND STREET",
+	"CD": "301",
+	"BLOCK": "02379",
+	"LOT": "00036",
+	"LAT": 40.7155685,
+	"LONG": -73.9633713,
 	"BOROUGH": "BROOKLYN"
  },
  {
@@ -38210,16 +38210,6 @@
 	"BOROUGH": "QUEENS"
  },
  {
-	"BIN": "4047315",
-	"Address": "96-10 57 AVENUE",
-	"CD": "404",
-	"BLOCK": "01918",
-	"LOT": "00052",
-	"LAT": 40.7366905,
-	"LONG": -73.8642502,
-	"BOROUGH": "QUEENS"
- },
- {
 	"BIN": "4047316",
 	"Address": "96-08 57 AVENUE",
 	"CD": "404",
@@ -39737,16 +39727,6 @@
 	"LOT": "00015",
 	"LAT": 40.7764816,
 	"LONG": -73.8085403,
-	"BOROUGH": "QUEENS"
- },
- {
-	"BIN": "4109607",
-	"Address": "154-28 24 ROAD",
-	"CD": "407",
-	"BLOCK": "04846",
-	"LOT": "00020",
-	"LAT": 40.7757492,
-	"LONG": -73.8083572,
 	"BOROUGH": "QUEENS"
  },
  {
@@ -43050,16 +43030,6 @@
 	"BOROUGH": "QUEENS"
  },
  {
-	"BIN": "4197572",
-	"Address": "114-09 95 AVENUE",
-	"CD": "409",
-	"BLOCK": "09400",
-	"LOT": "00033",
-	"LAT": 40.6915016,
-	"LONG": -73.8310776,
-	"BOROUGH": "QUEENS"
- },
- {
 	"BIN": "4197603",
 	"Address": "115-01 95TH AVENUE",
 	"CD": "409",
@@ -43917,16 +43887,6 @@
 	"LOT": "00019",
 	"LAT": 40.7239799,
 	"LONG": -73.7542572,
-	"BOROUGH": "QUEENS"
- },
- {
-	"BIN": "4226694",
-	"Address": "93-51 215 PLACE",
-	"CD": "413",
-	"BLOCK": "10619",
-	"LOT": "00005",
-	"LAT": 40.7191315,
-	"LONG": -73.7407532,
 	"BOROUGH": "QUEENS"
  },
  {
