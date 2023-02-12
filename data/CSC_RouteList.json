@@ -7510,16 +7510,6 @@
 	"BOROUGH": "MANHATTAN"
  },
  {
-	"BIN": "1054344",
-	"Address": "2289 5 AVENUE",
-	"CD": "111",
-	"BLOCK": "01763",
-	"LOT": "00001",
-	"LAT": 40.8147697,
-	"LONG": -73.9352264,
-	"BOROUGH": "MANHATTAN"
- },
- {
 	"BIN": "1054626",
 	"Address": "2253 THIRD AVENUE",
 	"CD": "111",
@@ -17760,16 +17750,6 @@
 	"BOROUGH": "BRONX"
  },
  {
-	"BIN": "2130670",
-	"Address": "472 WILLIS AVENUE",
-	"CD": "201",
-	"BLOCK": "02291",
-	"LOT": "00101",
-	"LAT": 40.8143196,
-	"LONG": -73.9185562,
-	"BOROUGH": "BRONX"
- },
- {
 	"BIN": "2130674",
 	"Address": "408 EAST  153 STREET",
 	"CD": "201",
@@ -25757,16 +25737,6 @@
 	"LOT": "00043",
 	"LAT": 40.6536903,
 	"LONG": -73.9443893,
-	"BOROUGH": "BROOKLYN"
- },
- {
-	"BIN": "3108746",
-	"Address": "117 EAST   35 STREET",
-	"CD": "317",
-	"BLOCK": "04872",
-	"LOT": "00066",
-	"LAT": 40.6524696,
-	"LONG": -73.9446335,
 	"BOROUGH": "BROOKLYN"
  },
  {
@@ -35950,6 +35920,16 @@
 	"BOROUGH": "BROOKLYN"
  },
  {
+	"BIN": "3429506",
+	"Address": "4810 GAR BEACH   48 STREET",
+	"CD": "313",
+	"BLOCK": "07035",
+	"LOT": "00010",
+	"LAT": 40.5775414,
+	"LONG": -74.0121002,
+	"BOROUGH": "BROOKLYN"
+ },
+ {
 	"BIN": "3429534",
 	"Address": "491 HERKIMER STREET",
 	"CD": "303",
@@ -38162,26 +38142,6 @@
  {
 	"BIN": "4041973",
 	"Address": "101-05 NORTHERN BLVD",
-	"CD": "403",
-	"BLOCK": "01696",
-	"LOT": "00039",
-	"LAT": 40.7577286,
-	"LONG": -73.8672867,
-	"BOROUGH": "QUEENS"
- },
- {
-	"BIN": "4041974",
-	"Address": "101-03 NORTHERN BLVD",
-	"CD": "403",
-	"BLOCK": "01696",
-	"LOT": "00039",
-	"LAT": 40.7577286,
-	"LONG": -73.8672867,
-	"BOROUGH": "QUEENS"
- },
- {
-	"BIN": "4041975",
-	"Address": "101-01 NORTHERN BLVD",
 	"CD": "403",
 	"BLOCK": "01696",
 	"LOT": "00039",
@@ -50100,16 +50060,6 @@
 	"BOROUGH": "QUEENS"
  },
  {
-	"BIN": "4624206",
-	"Address": "140-06 GAR 158 STREET",
-	"CD": "412",
-	"BLOCK": "12313",
-	"LOT": "00030",
-	"LAT": 40.6689796,
-	"LONG": -73.7771835,
-	"BOROUGH": "QUEENS"
- },
- {
 	"BIN": "4624209",
 	"Address": "25-95 42 STREET",
 	"CD": "401",
@@ -52230,16 +52180,6 @@
 	"BOROUGH": "STATEN ISLAND"
  },
  {
-	"BIN": "5055700",
-	"Address": "116 MILL RD",
-	"CD": "502",
-	"BLOCK": "04031",
-	"LOT": "00057",
-	"LAT": 40.5659485,
-	"LONG": -74.1085968,
-	"BOROUGH": "STATEN ISLAND"
- },
- {
 	"BIN": "5055819",
 	"Address": "189 TITUS AVENUE",
 	"CD": "502",
@@ -53277,16 +53217,6 @@
 	"LOT": "00100",
 	"LAT": 40.5545998,
 	"LONG": -74.2193069,
-	"BOROUGH": "STATEN ISLAND"
- },
- {
-	"BIN": "5114884",
-	"Address": "116GAR MILL RD",
-	"CD": "502",
-	"BLOCK": "04031",
-	"LOT": "00057",
-	"LAT": 40.5659485,
-	"LONG": -74.1085968,
 	"BOROUGH": "STATEN ISLAND"
  },
  {
