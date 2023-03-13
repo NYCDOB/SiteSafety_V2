@@ -3650,16 +3650,6 @@
 	"BOROUGH": "MANHATTAN"
  },
  {
-	"BIN": "1030265",
-	"Address": "164 WEST   79 STREET",
-	"CD": "107",
-	"BLOCK": "01150",
-	"LOT": "00056",
-	"LAT": 40.782589,
-	"LONG": -73.9777374,
-	"BOROUGH": "MANHATTAN"
- },
- {
 	"BIN": "1030267",
 	"Address": "172 WEST   79 STREET",
 	"CD": "107",
@@ -4497,6 +4487,16 @@
 	"LOT": "00018",
 	"LAT": 40.7575493,
 	"LONG": -73.9801025,
+	"BOROUGH": "MANHATTAN"
+ },
+ {
+	"BIN": "1034484",
+	"Address": "580 5 AVENUE",
+	"CD": "105",
+	"BLOCK": "01263",
+	"LOT": "00034",
+	"LAT": 40.7570801,
+	"LONG": -73.978981,
 	"BOROUGH": "MANHATTAN"
  },
  {
@@ -7177,16 +7177,6 @@
 	"LOT": "00001",
 	"LAT": 40.773201,
 	"LONG": -73.9516373,
-	"BOROUGH": "MANHATTAN"
- },
- {
-	"BIN": "1050385",
-	"Address": "401 EAST   81 STREET",
-	"CD": "108",
-	"BLOCK": "01561",
-	"LOT": "00001",
-	"LAT": 40.7736816,
-	"LONG": -73.9511795,
 	"BOROUGH": "MANHATTAN"
  },
  {
@@ -32980,26 +32970,6 @@
 	"BOROUGH": "BROOKLYN"
  },
  {
-	"BIN": "3425994",
-	"Address": "1249 43 STREET",
-	"CD": "312",
-	"BLOCK": "05598",
-	"LOT": "00056",
-	"LAT": 40.6390686,
-	"LONG": -73.9897308,
-	"BOROUGH": "BROOKLYN"
- },
- {
-	"BIN": "3425995",
-	"Address": "1251 43 STREET",
-	"CD": "312",
-	"BLOCK": "05598",
-	"LOT": "00055",
-	"LAT": 40.6390495,
-	"LONG": -73.9897003,
-	"BOROUGH": "BROOKLYN"
- },
- {
 	"BIN": "3426033",
 	"Address": "760 VAN SICLEN AVENUE",
 	"CD": "305",
@@ -37197,16 +37167,6 @@
 	"LOT": "00036",
 	"LAT": 40.7815208,
 	"LONG": -73.9094162,
-	"BOROUGH": "QUEENS"
- },
- {
-	"BIN": "4018718",
-	"Address": "25-20 23 AVENUE",
-	"CD": "401",
-	"BLOCK": "00864",
-	"LOT": "00041",
-	"LAT": 40.7764206,
-	"LONG": -73.9162369,
 	"BOROUGH": "QUEENS"
  },
  {
@@ -42570,16 +42530,6 @@
 	"BOROUGH": "QUEENS"
  },
  {
-	"BIN": "4210624",
-	"Address": "164-11 HIGHLAND AVE",
-	"CD": "408",
-	"BLOCK": "09846",
-	"LOT": "00010",
-	"LAT": 40.7106895,
-	"LONG": -73.7995071,
-	"BOROUGH": "QUEENS"
- },
- {
 	"BIN": "4211100",
 	"Address": "84-01 170 STREET",
 	"CD": "408",
@@ -44577,6 +44527,16 @@
 	"LOT": "00056",
 	"LAT": 40.6640015,
 	"LONG": -73.7542877,
+	"BOROUGH": "QUEENS"
+ },
+ {
+	"BIN": "4287219",
+	"Address": "227-03 145 AVENUE",
+	"CD": "413",
+	"BLOCK": "13497",
+	"LOT": "00009",
+	"LAT": 40.6625099,
+	"LONG": -73.7520218,
 	"BOROUGH": "QUEENS"
  },
  {
