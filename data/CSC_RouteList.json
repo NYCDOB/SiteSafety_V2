@@ -6350,16 +6350,6 @@
 	"BOROUGH": "MANHATTAN"
  },
  {
-	"BIN": "1046669",
-	"Address": "940 PARK AVENUE",
-	"CD": "108",
-	"BLOCK": "01493",
-	"LOT": "00033",
-	"LAT": 40.7772408,
-	"LONG": -73.9598389,
-	"BOROUGH": "MANHATTAN"
- },
- {
 	"BIN": "1046687",
 	"Address": "7 EAST   81 STREET",
 	"CD": "108",
@@ -18957,16 +18947,6 @@
 	"LOT": "00006",
 	"LAT": 40.6770096,
 	"LONG": -73.9912262,
-	"BOROUGH": "BROOKLYN"
- },
- {
-	"BIN": "3008225",
-	"Address": "102 COMMERCE STREET",
-	"CD": "306",
-	"BLOCK": "00507",
-	"LOT": "00001",
-	"LAT": 40.6815605,
-	"LONG": -74.0088806,
 	"BOROUGH": "BROOKLYN"
  },
  {
@@ -35930,16 +35910,6 @@
 	"BOROUGH": "QUEENS"
  },
  {
-	"BIN": "4020220",
-	"Address": "19-24 22ND ROAD",
-	"CD": "401",
-	"BLOCK": "00891",
-	"LOT": "00130",
-	"LAT": 40.7800598,
-	"LONG": -73.9180908,
-	"BOROUGH": "QUEENS"
- },
- {
 	"BIN": "4020345",
 	"Address": "21-65 SHORE BOULEVARD",
 	"CD": "401",
@@ -38997,16 +38967,6 @@
 	"LOT": "00005",
 	"LAT": 40.7443085,
 	"LONG": -73.8252487,
-	"BOROUGH": "QUEENS"
- },
- {
-	"BIN": "4140517",
-	"Address": "146-33 60 AVENUE",
-	"CD": "407",
-	"BLOCK": "06416",
-	"LOT": "00043",
-	"LAT": 40.7423592,
-	"LONG": -73.8216934,
 	"BOROUGH": "QUEENS"
  },
  {
@@ -42740,16 +42700,6 @@
 	"BOROUGH": "QUEENS"
  },
  {
-	"BIN": "4270958",
-	"Address": "168-17 144 AVENUE",
-	"CD": "412",
-	"BLOCK": "12586",
-	"LOT": "00022",
-	"LAT": 40.6692581,
-	"LONG": -73.7710037,
-	"BOROUGH": "QUEENS"
- },
- {
 	"BIN": "4271265",
 	"Address": "172-19 144 ROAD",
 	"CD": "412",
@@ -45840,16 +45790,6 @@
 	"BOROUGH": "QUEENS"
  },
  {
-	"BIN": "4605643",
-	"Address": "85-25 67TH  AVE",
-	"CD": "406",
-	"BLOCK": "03141",
-	"LOT": "00049",
-	"LAT": 40.7177391,
-	"LONG": -73.8616562,
-	"BOROUGH": "QUEENS"
- },
- {
 	"BIN": "4605808",
 	"Address": "164-20 GAR 67TH AVENUE",
 	"CD": "408",
@@ -46047,16 +45987,6 @@
 	"LOT": "00018",
 	"LAT": 40.7726097,
 	"LONG": -73.9314423,
-	"BOROUGH": "QUEENS"
- },
- {
-	"BIN": "4616420",
-	"Address": "33-03 213TH STREET",
-	"CD": "411",
-	"BLOCK": "06113",
-	"LOT": "00001",
-	"LAT": 40.7717781,
-	"LONG": -73.7751465,
 	"BOROUGH": "QUEENS"
  },
  {
@@ -48617,6 +48547,16 @@
 	"LOT": "00001",
 	"LAT": 40.6140404,
 	"LONG": -74.1162033,
+	"BOROUGH": "STATEN ISLAND"
+ },
+ {
+	"BIN": "5009209",
+	"Address": "257 POTTER AVENUE",
+	"CD": "501",
+	"BLOCK": "00338",
+	"LOT": "00034",
+	"LAT": 40.6170311,
+	"LONG": -74.1219101,
 	"BOROUGH": "STATEN ISLAND"
  },
  {
@@ -51320,16 +51260,6 @@
 	"BOROUGH": "STATEN ISLAND"
  },
  {
-	"BIN": "5164859",
-	"Address": "2348 FOREST AVENUE",
-	"CD": "501",
-	"BLOCK": "01707",
-	"LOT": "00041",
-	"LAT": 40.6274185,
-	"LONG": -74.1680832,
-	"BOROUGH": "STATEN ISLAND"
- },
- {
 	"BIN": "5165127",
 	"Address": "2343 FOREST AVENUE",
 	"CD": "501",
@@ -51867,6 +51797,16 @@
 	"LOT": "00056",
 	"LAT": 40.54879,
 	"LONG": -74.1919022,
+	"BOROUGH": "STATEN ISLAND"
+ },
+ {
+	"BIN": "5175619",
+	"Address": "323 GAR LIBERTY AVENUE",
+	"CD": "502",
+	"BLOCK": "03380",
+	"LOT": "00038",
+	"LAT": 40.5852699,
+	"LONG": -74.0912781,
 	"BOROUGH": "STATEN ISLAND"
  },
  {
