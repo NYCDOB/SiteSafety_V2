@@ -12010,16 +12010,6 @@
 	"BOROUGH": "BRONX"
  },
  {
-	"BIN": "2004136",
-	"Address": "581 AUSTIN PLACE",
-	"CD": "202",
-	"BLOCK": "02603",
-	"LOT": "00083",
-	"LAT": 40.8114891,
-	"LONG": -73.9015427,
-	"BOROUGH": "BRONX"
- },
- {
 	"BIN": "2004160",
 	"Address": "1100 LEGGETT AVENUE",
 	"CD": "202",
@@ -12437,16 +12427,6 @@
 	"LOT": "00065",
 	"LAT": 40.8360481,
 	"LONG": -73.9128113,
-	"BOROUGH": "BRONX"
- },
- {
-	"BIN": "2007838",
-	"Address": "1527 MORRIS AVENUE",
-	"CD": "204",
-	"BLOCK": "02820",
-	"LOT": "00051",
-	"LAT": 40.8419685,
-	"LONG": -73.9098892,
 	"BOROUGH": "BRONX"
  },
  {
@@ -16640,16 +16620,6 @@
 	"BOROUGH": "BRONX"
  },
  {
-	"BIN": "2130432",
-	"Address": "550 NEREID AVENUE",
-	"CD": "212",
-	"BLOCK": "05035",
-	"LOT": "00030",
-	"LAT": 40.899601,
-	"LONG": -73.8587418,
-	"BOROUGH": "BRONX"
- },
- {
 	"BIN": "2130433",
 	"Address": "3869 PALISADE AVENUE",
 	"CD": "208",
@@ -17917,16 +17887,6 @@
 	"LOT": "00048",
 	"LAT": 40.8836899,
 	"LONG": -73.8623962,
-	"BOROUGH": "BRONX"
- },
- {
-	"BIN": "2821187",
-	"Address": "1537 MORRIS AVENUE",
-	"CD": "204",
-	"BLOCK": "02820",
-	"LOT": "00047",
-	"LAT": 40.8422508,
-	"LONG": -73.9098969,
 	"BOROUGH": "BRONX"
  },
  {
@@ -22617,16 +22577,6 @@
 	"LOT": "00026",
 	"LAT": 40.7158585,
 	"LONG": -73.9624786,
-	"BOROUGH": "BROOKLYN"
- },
- {
-	"BIN": "3062477",
-	"Address": "158 ROEBLING STREET",
-	"CD": "301",
-	"BLOCK": "02367",
-	"LOT": "00028",
-	"LAT": 40.7140503,
-	"LONG": -73.9581833,
 	"BOROUGH": "BROOKLYN"
  },
  {
@@ -32960,16 +32910,6 @@
 	"BOROUGH": "BROOKLYN"
  },
  {
-	"BIN": "3428738",
-	"Address": "1430 39TH STREET",
-	"CD": "312",
-	"BLOCK": "05346",
-	"LOT": "00017",
-	"LAT": 40.6385803,
-	"LONG": -73.9829178,
-	"BOROUGH": "BROOKLYN"
- },
- {
 	"BIN": "3428742",
 	"Address": "822 60 STREET",
 	"CD": "312",
@@ -34467,16 +34407,6 @@
 	"LOT": "00134",
 	"LAT": 40.6987305,
 	"LONG": -73.9266663,
-	"BOROUGH": "BROOKLYN"
- },
- {
-	"BIN": "3429402",
-	"Address": "570 FULTON STREET",
-	"CD": "302",
-	"BLOCK": "02106",
-	"LOT": "00035",
-	"LAT": 40.6882401,
-	"LONG": -73.9798431,
 	"BOROUGH": "BROOKLYN"
  },
  {
@@ -39160,16 +39090,6 @@
 	"BOROUGH": "QUEENS"
  },
  {
-	"BIN": "4128311",
-	"Address": "56-44 196 STREET",
-	"CD": "411",
-	"BLOCK": "05682",
-	"LOT": "00028",
-	"LAT": 40.7445908,
-	"LONG": -73.781723,
-	"BOROUGH": "QUEENS"
- },
- {
 	"BIN": "4128350",
 	"Address": "56-07 196 STREET",
 	"CD": "411",
@@ -42667,6 +42587,16 @@
 	"LOT": "00027",
 	"LAT": 40.6788292,
 	"LONG": -73.8158035,
+	"BOROUGH": "QUEENS"
+ },
+ {
+	"BIN": "4252241",
+	"Address": "115-21 125 STREET",
+	"CD": "410",
+	"BLOCK": "11669",
+	"LOT": "00056",
+	"LAT": 40.678009,
+	"LONG": -73.8137894,
 	"BOROUGH": "QUEENS"
  },
  {
@@ -46500,6 +46430,16 @@
 	"BOROUGH": "QUEENS"
  },
  {
+	"BIN": "4602514",
+	"Address": "1815 LINDEN STREET",
+	"CD": "405",
+	"BLOCK": "03439",
+	"LOT": "00052",
+	"LAT": 40.7042313,
+	"LONG": -73.9089813,
+	"BOROUGH": "QUEENS"
+ },
+ {
 	"BIN": "4605192",
 	"Address": "43-46 39TH PLACE",
 	"CD": "402",
@@ -48690,16 +48630,6 @@
 	"BOROUGH": "QUEENS"
  },
  {
-	"BIN": "4624506",
-	"Address": "52-35 74TH STREET",
-	"CD": "405",
-	"BLOCK": "02492",
-	"LOT": "00141",
-	"LAT": 40.7326202,
-	"LONG": -73.8877335,
-	"BOROUGH": "QUEENS"
- },
- {
 	"BIN": "4624518",
 	"Address": "1607 WOODBINE STREET",
 	"CD": "405",
@@ -50860,16 +50790,6 @@
 	"BOROUGH": "STATEN ISLAND"
  },
  {
-	"BIN": "5068125",
-	"Address": "54 RIDGECREST AVE",
-	"CD": "503",
-	"BLOCK": "05297",
-	"LOT": "00037",
-	"LAT": 40.5356216,
-	"LONG": -74.1552429,
-	"BOROUGH": "STATEN ISLAND"
- },
- {
 	"BIN": "5069079",
 	"Address": "4128 RICHMOND AVENUE",
 	"CD": "503",
@@ -51730,16 +51650,6 @@
 	"BOROUGH": "STATEN ISLAND"
  },
  {
-	"BIN": "5150536",
-	"Address": "307 VICTORY BLVD",
-	"CD": "501",
-	"BLOCK": "00109",
-	"LOT": "00006",
-	"LAT": 40.6347313,
-	"LONG": -74.0858612,
-	"BOROUGH": "STATEN ISLAND"
- },
- {
 	"BIN": "5152167",
 	"Address": "158 PAGE AVENUE",
 	"CD": "503",
@@ -51830,16 +51740,6 @@
 	"BOROUGH": "STATEN ISLAND"
  },
  {
-	"BIN": "5160539",
-	"Address": "311 GARAGE LIBERTY AVENUE",
-	"CD": "502",
-	"BLOCK": "03380",
-	"LOT": "00038",
-	"LAT": 40.5855103,
-	"LONG": -74.0912704,
-	"BOROUGH": "STATEN ISLAND"
- },
- {
 	"BIN": "5160633",
 	"Address": "35 GARAGE PEARSALL STREET",
 	"CD": "502",
@@ -51877,16 +51777,6 @@
 	"LOT": "00001",
 	"LAT": 40.6222687,
 	"LONG": -74.1404266,
-	"BOROUGH": "STATEN ISLAND"
- },
- {
-	"BIN": "5162000",
-	"Address": "84GAR TOWNSEND AVE",
-	"CD": "501",
-	"BLOCK": "02840",
-	"LOT": "00044",
-	"LAT": 40.6194687,
-	"LONG": -74.0737762,
 	"BOROUGH": "STATEN ISLAND"
  },
  {
