@@ -2930,6 +2930,16 @@
 	"BOROUGH": "MANHATTAN"
  },
  {
+	"BIN": "1019602",
+	"Address": "201 EAST   19 STREET",
+	"CD": "106",
+	"BLOCK": "00900",
+	"LOT": "00001",
+	"LAT": 40.7364197,
+	"LONG": -73.9844437,
+	"BOROUGH": "MANHATTAN"
+ },
+ {
 	"BIN": "1019792",
 	"Address": "429 2ND AVE",
 	"CD": "106",
@@ -3187,6 +3197,16 @@
 	"LOT": "00054",
 	"LAT": 40.7636604,
 	"LONG": -73.9802399,
+	"BOROUGH": "MANHATTAN"
+ },
+ {
+	"BIN": "1023393",
+	"Address": "105 WEST   55 STREET",
+	"CD": "105",
+	"BLOCK": "01008",
+	"LOT": "00026",
+	"LAT": 40.7634697,
+	"LONG": -73.9786072,
 	"BOROUGH": "MANHATTAN"
  },
  {
@@ -3627,16 +3647,6 @@
 	"LOT": "00025",
 	"LAT": 40.7767715,
 	"LONG": -73.9761505,
-	"BOROUGH": "MANHATTAN"
- },
- {
-	"BIN": "1028700",
-	"Address": "43 WEST   74 STREET",
-	"CD": "107",
-	"BLOCK": "01127",
-	"LOT": "00011",
-	"LAT": 40.7784996,
-	"LONG": -73.9766769,
 	"BOROUGH": "MANHATTAN"
  },
  {
@@ -4237,6 +4247,16 @@
 	"LOT": "00121",
 	"LAT": 40.7884102,
 	"LONG": -73.9721069,
+	"BOROUGH": "MANHATTAN"
+ },
+ {
+	"BIN": "1032499",
+	"Address": "100 WEST   92 STREET",
+	"CD": "107",
+	"BLOCK": "01222",
+	"LOT": "00029",
+	"LAT": 40.7901497,
+	"LONG": -73.9700317,
 	"BOROUGH": "MANHATTAN"
  },
  {
@@ -9911,7 +9931,7 @@
  },
  {
 	"BIN": "1083342",
-	"Address": "220 EAST 72ND STREET",
+	"Address": "220 EAST   72 STREET",
 	"CD": "108",
 	"BLOCK": "01426",
 	"LOT": "00035",
@@ -16627,16 +16647,6 @@
 	"LOT": "00001",
 	"LAT": 40.8069611,
 	"LONG": -73.909523,
-	"BOROUGH": "BRONX"
- },
- {
-	"BIN": "2120490",
-	"Address": "1761 WALTON AVENUE",
-	"CD": "205",
-	"BLOCK": "02850",
-	"LOT": "00063",
-	"LAT": 40.8475685,
-	"LONG": -73.910553,
 	"BOROUGH": "BRONX"
  },
  {
@@ -35460,6 +35470,16 @@
 	"BOROUGH": "BROOKLYN"
  },
  {
+	"BIN": "3429529",
+	"Address": "23GAR MIAMI COURT",
+	"CD": "309",
+	"BLOCK": "04797",
+	"LOT": "00029",
+	"LAT": 40.66045,
+	"LONG": -73.9469376,
+	"BOROUGH": "BROOKLYN"
+ },
+ {
 	"BIN": "3429534",
 	"Address": "491 HERKIMER STREET",
 	"CD": "303",
@@ -50110,16 +50130,6 @@
 	"BOROUGH": "STATEN ISLAND"
  },
  {
-	"BIN": "5003951",
-	"Address": "188 HARRISON PLACE",
-	"CD": "501",
-	"BLOCK": "00150",
-	"LOT": "00091",
-	"LAT": 40.6402702,
-	"LONG": -74.1131363,
-	"BOROUGH": "STATEN ISLAND"
- },
- {
 	"BIN": "5004098",
 	"Address": "524 HENDERSON AVENUE",
 	"CD": "501",
@@ -53687,16 +53697,6 @@
 	"LOT": "00017",
 	"LAT": 40.6165085,
 	"LONG": -74.0970612,
-	"BOROUGH": "STATEN ISLAND"
- },
- {
-	"BIN": "5855252",
-	"Address": "35 VAN DUZER STREET",
-	"CD": "501",
-	"BLOCK": "00498",
-	"LOT": "00034",
-	"LAT": 40.6372414,
-	"LONG": -74.0773697,
 	"BOROUGH": "STATEN ISLAND"
  },
  {
