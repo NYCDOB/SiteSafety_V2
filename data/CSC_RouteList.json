@@ -710,6 +710,16 @@
 	"BOROUGH": "MANHATTAN"
  },
  {
+	"BIN": "1004481",
+	"Address": "264 EAST    7 STREET",
+	"CD": "103",
+	"BLOCK": "00376",
+	"LOT": "00024",
+	"LAT": 40.7233009,
+	"LONG": -73.9775696,
+	"BOROUGH": "MANHATTAN"
+ },
+ {
 	"BIN": "1004483",
 	"Address": "268 EAST 7TH STREET",
 	"CD": "103",
@@ -2527,16 +2537,6 @@
 	"LOT": "00036",
 	"LAT": 40.7502403,
 	"LONG": -73.9842834,
-	"BOROUGH": "MANHATTAN"
- },
- {
-	"BIN": "1015942",
-	"Address": "12 WEST   37 STREET",
-	"CD": "105",
-	"BLOCK": "00838",
-	"LOT": "00058",
-	"LAT": 40.7505493,
-	"LONG": -73.9842529,
 	"BOROUGH": "MANHATTAN"
  },
  {
@@ -17200,16 +17200,6 @@
 	"BOROUGH": "BRONX"
  },
  {
-	"BIN": "2117857",
-	"Address": "1896GAR DR M L KING JR BOULEVARD",
-	"CD": "205",
-	"BLOCK": "02868",
-	"LOT": "00042",
-	"LAT": 40.8526688,
-	"LONG": -73.9127274,
-	"BOROUGH": "BRONX"
- },
- {
 	"BIN": "2117967",
 	"Address": "1395 BRISTOW STREET",
 	"CD": "203",
@@ -17387,16 +17377,6 @@
 	"LOT": "00053",
 	"LAT": 40.8476181,
 	"LONG": -73.9152679,
-	"BOROUGH": "BRONX"
- },
- {
-	"BIN": "2124980",
-	"Address": "1892GAR UNIVERSITY AVENUE",
-	"CD": "205",
-	"BLOCK": "02868",
-	"LOT": "00040",
-	"LAT": 40.8526688,
-	"LONG": -73.9127274,
 	"BOROUGH": "BRONX"
  },
  {
@@ -18777,6 +18757,16 @@
 	"LOT": "00037",
 	"LAT": 40.8248901,
 	"LONG": -73.9088593,
+	"BOROUGH": "BRONX"
+ },
+ {
+	"BIN": "2130853",
+	"Address": "717 BARTHOLDI STREET",
+	"CD": "212",
+	"BLOCK": "04629",
+	"LOT": "00001",
+	"LAT": 40.8744392,
+	"LONG": -73.8662491,
 	"BOROUGH": "BRONX"
  },
  {
@@ -20337,6 +20327,16 @@
 	"LOT": "00001",
 	"LAT": 40.6770782,
 	"LONG": -74.0118713,
+	"BOROUGH": "BROOKLYN"
+ },
+ {
+	"BIN": "3008773",
+	"Address": "238 CONOVER STREET",
+	"CD": "306",
+	"BLOCK": "00595",
+	"LOT": "00001",
+	"LAT": 40.6764603,
+	"LONG": -74.0164795,
 	"BOROUGH": "BROOKLYN"
  },
  {
@@ -40190,6 +40190,16 @@
 	"BOROUGH": "QUEENS"
  },
  {
+	"BIN": "4141308",
+	"Address": "150-41 61 ROAD",
+	"CD": "408",
+	"BLOCK": "06435",
+	"LOT": "00026",
+	"LAT": 40.7393494,
+	"LONG": -73.8182602,
+	"BOROUGH": "QUEENS"
+ },
+ {
 	"BIN": "4141353",
 	"Address": "150-09 REEVES AVENUE",
 	"CD": "408",
@@ -43297,6 +43307,16 @@
 	"LOT": "00003",
 	"LAT": 40.672821,
 	"LONG": -73.8108292,
+	"BOROUGH": "QUEENS"
+ },
+ {
+	"BIN": "4255483",
+	"Address": "131-10 131 STREET",
+	"CD": "410",
+	"BLOCK": "11769",
+	"LOT": "00005",
+	"LAT": 40.6705513,
+	"LONG": -73.8078918,
 	"BOROUGH": "QUEENS"
  },
  {
