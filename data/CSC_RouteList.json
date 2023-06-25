@@ -1230,16 +1230,6 @@
 	"BOROUGH": "MANHATTAN"
  },
  {
-	"BIN": "1009539",
-	"Address": "40 5 AVENUE",
-	"CD": "102",
-	"BLOCK": "00574",
-	"LOT": "00039",
-	"LAT": 40.7340012,
-	"LONG": -73.9955368,
-	"BOROUGH": "MANHATTAN"
- },
- {
 	"BIN": "1009574",
 	"Address": "34 WEST   12 STREET",
 	"CD": "102",
@@ -12150,16 +12140,6 @@
 	"BOROUGH": "MANHATTAN"
  },
  {
-	"BIN": "1091634",
-	"Address": "250 CANAL STREET",
-	"CD": "101",
-	"BLOCK": "00197",
-	"LOT": "00021",
-	"LAT": 40.7181015,
-	"LONG": -74.0005188,
-	"BOROUGH": "MANHATTAN"
- },
- {
 	"BIN": "1091635",
 	"Address": "600 WEST 125TH STREET",
 	"CD": "109",
@@ -16060,16 +16040,6 @@
 	"BOROUGH": "BRONX"
  },
  {
-	"BIN": "2065593",
-	"Address": "1334 EAST 223 STREET",
-	"CD": "212",
-	"BLOCK": "04888",
-	"LOT": "00028",
-	"LAT": 40.8797607,
-	"LONG": -73.8433838,
-	"BOROUGH": "BRONX"
- },
- {
 	"BIN": "2065767",
 	"Address": "1804 SCHIEFFELIN AVENUE",
 	"CD": "212",
@@ -17647,16 +17617,6 @@
 	"LOT": "00001",
 	"LAT": 40.8635292,
 	"LONG": -73.8467712,
-	"BOROUGH": "BRONX"
- },
- {
-	"BIN": "2129070",
-	"Address": "115 FATHER ZEISER PLACE",
-	"CD": "207",
-	"BLOCK": "03219",
-	"LOT": "00214",
-	"LAT": 40.8643913,
-	"LONG": -73.9047699,
 	"BOROUGH": "BRONX"
  },
  {
@@ -26607,16 +26567,6 @@
 	"LOT": "00032",
 	"LAT": 40.6456108,
 	"LONG": -73.9805222,
-	"BOROUGH": "BROOKLYN"
- },
- {
-	"BIN": "3124332",
-	"Address": "234 EAST    7 STREET",
-	"CD": "312",
-	"BLOCK": "05329",
-	"LOT": "00029",
-	"LAT": 40.6462898,
-	"LONG": -73.9735489,
 	"BOROUGH": "BROOKLYN"
  },
  {
@@ -37760,16 +37710,6 @@
 	"BOROUGH": "QUEENS"
  },
  {
-	"BIN": "4045343",
-	"Address": "53-20 90 STREET",
-	"CD": "404",
-	"BLOCK": "01839",
-	"LOT": "00034",
-	"LAT": 40.7374802,
-	"LONG": -73.8736267,
-	"BOROUGH": "QUEENS"
- },
- {
 	"BIN": "4045370",
 	"Address": "88-30 54 AVENUE",
 	"CD": "404",
@@ -38860,16 +38800,6 @@
 	"BOROUGH": "QUEENS"
  },
  {
-	"BIN": "4092427",
-	"Address": "70-30 80 STREET",
-	"CD": "405",
-	"BLOCK": "03804",
-	"LOT": "00091",
-	"LAT": 40.7081184,
-	"LONG": -73.8703537,
-	"BOROUGH": "QUEENS"
- },
- {
 	"BIN": "4092450",
 	"Address": "71-20 80TH STREET",
 	"CD": "405",
@@ -38907,6 +38837,16 @@
 	"LOT": "00004",
 	"LAT": 40.7033195,
 	"LONG": -73.8535767,
+	"BOROUGH": "QUEENS"
+ },
+ {
+	"BIN": "4095116",
+	"Address": "87-38 69 AVENUE",
+	"CD": "406",
+	"BLOCK": "03892",
+	"LOT": "00058",
+	"LAT": 40.7106514,
+	"LONG": -73.855423,
 	"BOROUGH": "QUEENS"
  },
  {
@@ -45480,16 +45420,6 @@
 	"BOROUGH": "QUEENS"
  },
  {
-	"BIN": "4311545",
-	"Address": "32-08 38TH STREET",
-	"CD": "401",
-	"BLOCK": "00655",
-	"LOT": "00041",
-	"LAT": 40.7591591,
-	"LONG": -73.9201584,
-	"BOROUGH": "QUEENS"
- },
- {
 	"BIN": "4311638",
 	"Address": "57-00 47 STREET",
 	"CD": "405",
@@ -45812,16 +45742,6 @@
  {
 	"BIN": "4436903",
 	"Address": "37-18 BROADWAY",
-	"CD": "401",
-	"BLOCK": "00655",
-	"LOT": "00040",
-	"LAT": 40.7592697,
-	"LONG": -73.9200974,
-	"BOROUGH": "QUEENS"
- },
- {
-	"BIN": "4436904",
-	"Address": "37-16 BROADWAY",
 	"CD": "401",
 	"BLOCK": "00655",
 	"LOT": "00040",
@@ -47330,16 +47250,6 @@
 	"BOROUGH": "QUEENS"
  },
  {
-	"BIN": "4597173",
-	"Address": "129-21 101 AVENUE",
-	"CD": "409",
-	"BLOCK": "09473",
-	"LOT": "00024",
-	"LAT": 40.6926193,
-	"LONG": -73.8175812,
-	"BOROUGH": "QUEENS"
- },
- {
 	"BIN": "4597864",
 	"Address": "88-49 179TH PLACE",
 	"CD": "412",
@@ -47747,16 +47657,6 @@
 	"LOT": "00400",
 	"LAT": 40.556881,
 	"LONG": -73.9207306,
-	"BOROUGH": "QUEENS"
- },
- {
-	"BIN": "4618156",
-	"Address": "129-19 101 AVENUE",
-	"CD": "409",
-	"BLOCK": "09473",
-	"LOT": "00026",
-	"LAT": 40.6925812,
-	"LONG": -73.8177032,
 	"BOROUGH": "QUEENS"
  },
  {
@@ -48707,6 +48607,16 @@
 	"LOT": "00044",
 	"LAT": 40.7589302,
 	"LONG": -73.826683,
+	"BOROUGH": "QUEENS"
+ },
+ {
+	"BIN": "4623858",
+	"Address": "5-22 49 AVENUE",
+	"CD": "402",
+	"BLOCK": "00032",
+	"LOT": "00035",
+	"LAT": 40.7435303,
+	"LONG": -73.9555588,
 	"BOROUGH": "QUEENS"
  },
  {
@@ -49970,16 +49880,6 @@
 	"BOROUGH": "STATEN ISLAND"
  },
  {
-	"BIN": "5004098",
-	"Address": "524 HENDERSON AVENUE",
-	"CD": "501",
-	"BLOCK": "00151",
-	"LOT": "00007",
-	"LAT": 40.6375809,
-	"LONG": -74.1101074,
-	"BOROUGH": "STATEN ISLAND"
- },
- {
 	"BIN": "5004549",
 	"Address": "208 BEMENT AVENUE",
 	"CD": "501",
@@ -50267,16 +50167,6 @@
 	"LOT": "00006",
 	"LAT": 40.6156693,
 	"LONG": -74.1025696,
-	"BOROUGH": "STATEN ISLAND"
- },
- {
-	"BIN": "5015826",
-	"Address": "255 HOWARD AVENUE",
-	"CD": "501",
-	"BLOCK": "00614",
-	"LOT": "00001",
-	"LAT": 40.6240196,
-	"LONG": -74.0880737,
 	"BOROUGH": "STATEN ISLAND"
  },
  {
