@@ -15810,28 +15810,8 @@
 	"BOROUGH": "BRONX"
  },
  {
-	"BIN": "2045726",
-	"Address": "1338 BLONDELL AVENUE",
-	"CD": "211",
-	"BLOCK": "04134",
-	"LOT": "00001",
-	"LAT": 40.8420906,
-	"LONG": -73.8416901,
-	"BOROUGH": "BRONX"
- },
- {
 	"BIN": "2045727",
 	"Address": "1340 BLONDELL AVENUE",
-	"CD": "211",
-	"BLOCK": "04134",
-	"LOT": "00001",
-	"LAT": 40.8420906,
-	"LONG": -73.8416901,
-	"BOROUGH": "BRONX"
- },
- {
-	"BIN": "2045728",
-	"Address": "1346 BLONDELL AVENUE",
 	"CD": "211",
 	"BLOCK": "04134",
 	"LOT": "00001",
@@ -16017,16 +15997,6 @@
 	"LOT": "00017",
 	"LAT": 40.8604317,
 	"LONG": -73.8427429,
-	"BOROUGH": "BRONX"
- },
- {
-	"BIN": "2051459",
-	"Address": "2449 MATTHEWS AVE",
-	"CD": "211",
-	"BLOCK": "04437",
-	"LOT": "00036",
-	"LAT": 40.862709,
-	"LONG": -73.8629608,
 	"BOROUGH": "BRONX"
  },
  {
@@ -29860,16 +29830,6 @@
 	"BOROUGH": "BROOKLYN"
  },
  {
-	"BIN": "3203023",
-	"Address": "2459 EAST 15 STREET",
-	"CD": "315",
-	"BLOCK": "07417",
-	"LOT": "00054",
-	"LAT": 40.5908508,
-	"LONG": -73.9546432,
-	"BOROUGH": "BROOKLYN"
- },
- {
 	"BIN": "3203132",
 	"Address": "1801 AVENUE 'Y'",
 	"CD": "315",
@@ -39170,6 +39130,16 @@
 	"BOROUGH": "QUEENS"
  },
  {
+	"BIN": "4058008",
+	"Address": "73-24 53 AVENUE",
+	"CD": "405",
+	"BLOCK": "02490",
+	"LOT": "00019",
+	"LAT": 40.7310104,
+	"LONG": -73.8895569,
+	"BOROUGH": "QUEENS"
+ },
+ {
 	"BIN": "4058017",
 	"Address": "73-46 53 AVENUE",
 	"CD": "405",
@@ -40037,6 +40007,16 @@
 	"LOT": "00083",
 	"LAT": 40.7888412,
 	"LONG": -73.8286133,
+	"BOROUGH": "QUEENS"
+ },
+ {
+	"BIN": "4101224",
+	"Address": "2-18 PARSONS BOULEVARD",
+	"CD": "407",
+	"BLOCK": "04438",
+	"LOT": "00003",
+	"LAT": 40.7955589,
+	"LONG": -73.8267975,
 	"BOROUGH": "QUEENS"
  },
  {
@@ -42567,6 +42547,16 @@
 	"LOT": "00030",
 	"LAT": 40.7493896,
 	"LONG": -73.7810364,
+	"BOROUGH": "QUEENS"
+ },
+ {
+	"BIN": "4158623",
+	"Address": "50-09 203 STREET",
+	"CD": "411",
+	"BLOCK": "07380",
+	"LOT": "00057",
+	"LAT": 40.7507515,
+	"LONG": -73.7758865,
 	"BOROUGH": "QUEENS"
  },
  {
@@ -49600,16 +49590,6 @@
 	"BOROUGH": "QUEENS"
  },
  {
-	"BIN": "4623341",
-	"Address": "35-01 36 AVE",
-	"CD": "401",
-	"BLOCK": "00639",
-	"LOT": "00001",
-	"LAT": 40.7550888,
-	"LONG": -73.9261093,
-	"BOROUGH": "QUEENS"
- },
- {
 	"BIN": "4623356",
 	"Address": "5123 BEACH CHANNEL DRIVE",
 	"CD": "414",
@@ -53440,6 +53420,16 @@
 	"BOROUGH": "STATEN ISLAND"
  },
  {
+	"BIN": "5082814",
+	"Address": "24 SINGLETON STREET",
+	"CD": "503",
+	"BLOCK": "06675",
+	"LOT": "00024",
+	"LAT": 40.5223007,
+	"LONG": -74.1979828,
+	"BOROUGH": "STATEN ISLAND"
+ },
+ {
 	"BIN": "5083254",
 	"Address": "220 WOODVALE AVENUE",
 	"CD": "503",
@@ -53651,7 +53641,7 @@
  },
  {
 	"BIN": "5088090",
-	"Address": "528 ACADEMY AVENUE",
+	"Address": "528 ACADEMY AVE",
 	"CD": "503",
 	"BLOCK": "07894",
 	"LOT": "00001",
