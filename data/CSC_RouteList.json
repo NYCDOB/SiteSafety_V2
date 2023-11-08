@@ -12480,16 +12480,6 @@
 	"BOROUGH": "MANHATTAN"
  },
  {
-	"BIN": "1090310",
-	"Address": "259 CLINTON STREET",
-	"CD": "103",
-	"BLOCK": "00246",
-	"LOT": "00005",
-	"LAT": 40.7107697,
-	"LONG": -73.9870529,
-	"BOROUGH": "MANHATTAN"
- },
- {
 	"BIN": "1090336",
 	"Address": "1560 PARK AVENUE",
 	"CD": "111",
@@ -23550,16 +23540,6 @@
 	"BOROUGH": "BROOKLYN"
  },
  {
-	"BIN": "3054907",
-	"Address": "218 CLASSON AVENUE",
-	"CD": "302",
-	"BLOCK": "01909",
-	"LOT": "00046",
-	"LAT": 40.6930389,
-	"LONG": -73.9611893,
-	"BOROUGH": "BROOKLYN"
- },
- {
 	"BIN": "3055183",
 	"Address": "245 FRANKLIN AVENUE",
 	"CD": "303",
@@ -26847,6 +26827,16 @@
 	"LOT": "00011",
 	"LAT": 40.6595383,
 	"LONG": -73.9562912,
+	"BOROUGH": "BROOKLYN"
+ },
+ {
+	"BIN": "3115421",
+	"Address": "231 FENIMORE STREET",
+	"CD": "309",
+	"BLOCK": "05038",
+	"LOT": "00067",
+	"LAT": 40.6586418,
+	"LONG": -73.9547501,
 	"BOROUGH": "BROOKLYN"
  },
  {
@@ -44110,16 +44100,6 @@
 	"BOROUGH": "QUEENS"
  },
  {
-	"BIN": "4202769",
-	"Address": "104-35 115 STREET",
-	"CD": "410",
-	"BLOCK": "09538",
-	"LOT": "00065",
-	"LAT": 40.6848412,
-	"LONG": -73.8270111,
-	"BOROUGH": "QUEENS"
- },
- {
 	"BIN": "4203462",
 	"Address": "107-64 114 STREET",
 	"CD": "410",
@@ -46437,16 +46417,6 @@
 	"LOT": "00031",
 	"LAT": 40.6637306,
 	"LONG": -73.7452469,
-	"BOROUGH": "QUEENS"
- },
- {
-	"BIN": "4287672",
-	"Address": "231-17 LANSING AVENUE",
-	"CD": "413",
-	"BLOCK": "13516",
-	"LOT": "00043",
-	"LAT": 40.66325,
-	"LONG": -73.7456131,
 	"BOROUGH": "QUEENS"
  },
  {
@@ -52240,16 +52210,6 @@
 	"BOROUGH": "STATEN ISLAND"
  },
  {
-	"BIN": "5009370",
-	"Address": "134 FAIRVIEW AVENUE",
-	"CD": "501",
-	"BLOCK": "00346",
-	"LOT": "00109",
-	"LAT": 40.6160889,
-	"LONG": -74.118927,
-	"BOROUGH": "STATEN ISLAND"
- },
- {
 	"BIN": "5009786",
 	"Address": "144 EGBERT AVENUE",
 	"CD": "501",
@@ -55591,7 +55551,7 @@
  },
  {
 	"BIN": "5175464",
-	"Address": "402 ST MARKS PLACE",
+	"Address": "402 ST. MARKS PLACE",
 	"CD": "501",
 	"BLOCK": "00016",
 	"LOT": "00109",
