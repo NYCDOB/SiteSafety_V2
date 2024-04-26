@@ -1250,6 +1250,16 @@
 	"BOROUGH": "MANHATTAN"
  },
  {
+	"BIN": "1009706",
+	"Address": "65 WEST   13 STREET",
+	"CD": "102",
+	"BLOCK": "00577",
+	"LOT": "07502",
+	"LAT": 40.73684,
+	"LONG": -73.9968,
+	"BOROUGH": "MANHATTAN"
+ },
+ {
 	"BIN": "1009746",
 	"Address": "330 HUDSON STREET",
 	"CD": "102",
@@ -1807,16 +1817,6 @@
 	"LOT": "00016",
 	"LAT": 40.75429,
 	"LONG": -73.99774,
-	"BOROUGH": "MANHATTAN"
- },
- {
-	"BIN": "1012888",
-	"Address": "439 W 36 STREET",
-	"CD": "104",
-	"BLOCK": "00734",
-	"LOT": "00010",
-	"LAT": 40.75567,
-	"LONG": -73.99717,
 	"BOROUGH": "MANHATTAN"
  },
  {
@@ -3570,16 +3570,6 @@
 	"BOROUGH": "MANHATTAN"
  },
  {
-	"BIN": "1027058",
-	"Address": "539 WEST 54 STREET",
-	"CD": "104",
-	"BLOCK": "01083",
-	"LOT": "00010",
-	"LAT": 40.76812,
-	"LONG": -73.9916,
-	"BOROUGH": "MANHATTAN"
- },
- {
 	"BIN": "1027124",
 	"Address": "608 WEST 48TH ST",
 	"CD": "104",
@@ -3871,7 +3861,7 @@
  },
  {
 	"BIN": "1030307",
-	"Address": "537 WEST 59TH ST",
+	"Address": "537 WEST   59 STREET",
 	"CD": "107",
 	"BLOCK": "01151",
 	"LOT": "00012",
@@ -3977,16 +3967,6 @@
 	"LOT": "00029",
 	"LAT": 40.78215,
 	"LONG": -73.97946,
-	"BOROUGH": "MANHATTAN"
- },
- {
-	"BIN": "1030923",
-	"Address": "303 WEST   66 STREET",
-	"CD": "107",
-	"BLOCK": "01179",
-	"LOT": "00019",
-	"LAT": 40.77661,
-	"LONG": -73.98765,
 	"BOROUGH": "MANHATTAN"
  },
  {
@@ -4587,6 +4567,16 @@
 	"LOT": "00090",
 	"LAT": 40.78655,
 	"LONG": -73.9809,
+	"BOROUGH": "MANHATTAN"
+ },
+ {
+	"BIN": "1033858",
+	"Address": "505 WEST END AVENUE",
+	"CD": "107",
+	"BLOCK": "01246",
+	"LOT": "00029",
+	"LAT": 40.78788,
+	"LONG": -73.97899,
 	"BOROUGH": "MANHATTAN"
  },
  {
@@ -13000,6 +12990,16 @@
 	"BOROUGH": "BRONX"
  },
  {
+	"BIN": "2005898",
+	"Address": "1175 LEGGETT AVENUE",
+	"CD": "202",
+	"BLOCK": "02736",
+	"LOT": "00082",
+	"LAT": 40.8117,
+	"LONG": -73.89377,
+	"BOROUGH": "BRONX"
+ },
+ {
 	"BIN": "2006071",
 	"Address": "967 EAST  167 STREET",
 	"CD": "203",
@@ -13687,16 +13687,6 @@
 	"LOT": "00016",
 	"LAT": 40.83305,
 	"LONG": -73.89444,
-	"BOROUGH": "BRONX"
- },
- {
-	"BIN": "2010735",
-	"Address": "1432 VYSE AVENUE",
-	"CD": "203",
-	"BLOCK": "02994",
-	"LOT": "00015",
-	"LAT": 40.83104,
-	"LONG": -73.88908,
 	"BOROUGH": "BRONX"
  },
  {
@@ -14397,6 +14387,16 @@
 	"LOT": "00037",
 	"LAT": 40.864,
 	"LONG": -73.89312,
+	"BOROUGH": "BRONX"
+ },
+ {
+	"BIN": "2016857",
+	"Address": "2677 BAINBRIDGE AVENUE",
+	"CD": "207",
+	"BLOCK": "03294",
+	"LOT": "00062",
+	"LAT": 40.86575,
+	"LONG": -73.89152,
 	"BOROUGH": "BRONX"
  },
  {
@@ -15220,16 +15220,6 @@
 	"BOROUGH": "BRONX"
  },
  {
-	"BIN": "2061327",
-	"Address": "3314 KINGSLAND AVENUE",
-	"CD": "212",
-	"BLOCK": "04749",
-	"LOT": "00047",
-	"LAT": 40.8758,
-	"LONG": -73.84338,
-	"BOROUGH": "BRONX"
- },
- {
 	"BIN": "2061668",
 	"Address": "3240 GRACE AVENUE",
 	"CD": "212",
@@ -15777,6 +15767,16 @@
 	"LOT": "00022",
 	"LAT": 40.86728,
 	"LONG": -73.86076,
+	"BOROUGH": "BRONX"
+ },
+ {
+	"BIN": "2090358",
+	"Address": "1173 LEGGETT AVENUE",
+	"CD": "202",
+	"BLOCK": "02736",
+	"LOT": "00082",
+	"LAT": 40.81177,
+	"LONG": -73.89393,
 	"BOROUGH": "BRONX"
  },
  {
@@ -18180,6 +18180,16 @@
 	"BOROUGH": "BRONX"
  },
  {
+	"BIN": "2130904",
+	"Address": "1177 LEGGETT AVENUE",
+	"CD": "202",
+	"BLOCK": "02736",
+	"LOT": "00086",
+	"LAT": 40.81157,
+	"LONG": -73.89345,
+	"BOROUGH": "BRONX"
+ },
+ {
 	"BIN": "2130911",
 	"Address": "1119 BOSTON ROAD",
 	"CD": "203",
@@ -19417,6 +19427,16 @@
 	"LOT": "00050",
 	"LAT": 40.68401,
 	"LONG": -73.99319,
+	"BOROUGH": "BROOKLYN"
+ },
+ {
+	"BIN": "3006535",
+	"Address": "17 DOUGLASS STREET",
+	"CD": "306",
+	"BLOCK": "00408",
+	"LOT": "00064",
+	"LAT": 40.68436,
+	"LONG": -73.99418,
 	"BOROUGH": "BROOKLYN"
  },
  {
@@ -21390,6 +21410,16 @@
 	"BOROUGH": "BROOKLYN"
  },
  {
+	"BIN": "3033844",
+	"Address": "147 CROWN STREET",
+	"CD": "309",
+	"BLOCK": "01288",
+	"LOT": "00077",
+	"LAT": 40.66684,
+	"LONG": -73.95586,
+	"BOROUGH": "BROOKLYN"
+ },
+ {
 	"BIN": "3034009",
 	"Address": "461 CROWN STREET",
 	"CD": "309",
@@ -22537,6 +22567,16 @@
 	"LOT": "00001",
 	"LAT": 40.69257,
 	"LONG": -73.96519,
+	"BOROUGH": "BROOKLYN"
+ },
+ {
+	"BIN": "3055181",
+	"Address": "497 DEKALB AVENUE",
+	"CD": "303",
+	"BLOCK": "01927",
+	"LOT": "00004",
+	"LAT": 40.69093,
+	"LONG": -73.95708,
 	"BOROUGH": "BROOKLYN"
  },
  {
@@ -25321,7 +25361,7 @@
  },
  {
 	"BIN": "3083659",
-	"Address": "182 PENNSYLVANIA AVENUE",
+	"Address": "180 PENNSYLVANIA AVENUE",
 	"CD": "305",
 	"BLOCK": "03703",
 	"LOT": "00034",
@@ -27607,16 +27647,6 @@
 	"LOT": "00046",
 	"LAT": 40.62622,
 	"LONG": -74.0397,
-	"BOROUGH": "BROOKLYN"
- },
- {
-	"BIN": "3152683",
-	"Address": "136 84 STREET",
-	"CD": "310",
-	"BLOCK": "06023",
-	"LOT": "00022",
-	"LAT": 40.6258,
-	"LONG": -74.03473,
 	"BOROUGH": "BROOKLYN"
  },
  {
@@ -31500,6 +31530,16 @@
 	"BOROUGH": "BROOKLYN"
  },
  {
+	"BIN": "3336085",
+	"Address": "240 SMITH STREET",
+	"CD": "306",
+	"BLOCK": "00408",
+	"LOT": "00041",
+	"LAT": 40.6838,
+	"LONG": -73.99267,
+	"BOROUGH": "BROOKLYN"
+ },
+ {
 	"BIN": "3336117",
 	"Address": "558 SACKETT STREET",
 	"CD": "306",
@@ -32837,16 +32877,6 @@
 	"LOT": "00061",
 	"LAT": 40.61803,
 	"LONG": -73.95106,
-	"BOROUGH": "BROOKLYN"
- },
- {
-	"BIN": "3409260",
-	"Address": "1652 GAR E 14 ST",
-	"CD": "315",
-	"BLOCK": "06776",
-	"LOT": "00028",
-	"LAT": 40.60894,
-	"LONG": -73.95955,
 	"BOROUGH": "BROOKLYN"
  },
  {
@@ -34190,16 +34220,6 @@
 	"BOROUGH": "BROOKLYN"
  },
  {
-	"BIN": "3428985",
-	"Address": "342 WALLABOUT STREET",
-	"CD": "301",
-	"BLOCK": "02265",
-	"LOT": "00016",
-	"LAT": 40.70092,
-	"LONG": -73.94903,
-	"BOROUGH": "BROOKLYN"
- },
- {
 	"BIN": "3428986",
 	"Address": "330 WALLABOUT STREET",
 	"CD": "301",
@@ -35040,6 +35060,16 @@
 	"BOROUGH": "BROOKLYN"
  },
  {
+	"BIN": "3429398",
+	"Address": "890 ERSKINE STREET",
+	"CD": "305",
+	"BLOCK": "04586",
+	"LOT": "00926",
+	"LAT": 40.65705,
+	"LONG": -73.86893,
+	"BOROUGH": "BROOKLYN"
+ },
+ {
 	"BIN": "3429400",
 	"Address": "649 HART STREET",
 	"CD": "304",
@@ -35287,16 +35317,6 @@
 	"LOT": "00090",
 	"LAT": 40.67463,
 	"LONG": -73.95887,
-	"BOROUGH": "BROOKLYN"
- },
- {
-	"BIN": "3429508",
-	"Address": "708 ELTON STREET",
-	"CD": "305",
-	"BLOCK": "04313",
-	"LOT": "00029",
-	"LAT": 40.66547,
-	"LONG": -73.88101,
 	"BOROUGH": "BROOKLYN"
  },
  {
@@ -36040,6 +36060,16 @@
 	"BOROUGH": "BROOKLYN"
  },
  {
+	"BIN": "3429812",
+	"Address": "708 ELTON STREET",
+	"CD": "305",
+	"BLOCK": "04313",
+	"LOT": "00029",
+	"LAT": 40.66547,
+	"LONG": -73.88101,
+	"BOROUGH": "BROOKLYN"
+ },
+ {
 	"BIN": "3801315",
 	"Address": "249 18 STREET",
 	"CD": "307",
@@ -36487,6 +36517,16 @@
 	"LOT": "00035",
 	"LAT": 40.69003,
 	"LONG": -73.95647,
+	"BOROUGH": "BROOKLYN"
+ },
+ {
+	"BIN": "3859802",
+	"Address": "217 9TH STREET",
+	"CD": "306",
+	"BLOCK": "01003",
+	"LOT": "00051",
+	"LAT": 40.67107,
+	"LONG": -73.98959,
 	"BOROUGH": "BROOKLYN"
  },
  {
@@ -38310,16 +38350,6 @@
 	"BOROUGH": "QUEENS"
  },
  {
-	"BIN": "4052247",
-	"Address": "108-34 68 ROAD",
-	"CD": "406",
-	"BLOCK": "02217",
-	"LOT": "00020",
-	"LAT": 40.72645,
-	"LONG": -73.84486,
-	"BOROUGH": "QUEENS"
- },
- {
 	"BIN": "4052248",
 	"Address": "108-38 68 ROAD",
 	"CD": "406",
@@ -38367,6 +38397,16 @@
 	"LOT": "00092",
 	"LAT": 40.72178,
 	"LONG": -73.83736,
+	"BOROUGH": "QUEENS"
+ },
+ {
+	"BIN": "4052713",
+	"Address": "71-25 113TH STREET",
+	"CD": "406",
+	"BLOCK": "02248",
+	"LOT": "00100",
+	"LAT": 40.72276,
+	"LONG": -73.8374,
 	"BOROUGH": "QUEENS"
  },
  {
@@ -41780,16 +41820,6 @@
 	"BOROUGH": "QUEENS"
  },
  {
-	"BIN": "4150409",
-	"Address": "71-14 169 STREET",
-	"CD": "408",
-	"BLOCK": "06956",
-	"LOT": "00051",
-	"LAT": 40.73008,
-	"LONG": -73.80083,
-	"BOROUGH": "QUEENS"
- },
- {
 	"BIN": "4150453",
 	"Address": "71-61 170 STREET",
 	"CD": "408",
@@ -42360,16 +42390,6 @@
 	"BOROUGH": "QUEENS"
  },
  {
-	"BIN": "4161221",
-	"Address": "230-08 53 AVENUE",
-	"CD": "411",
-	"BLOCK": "07509",
-	"LOT": "00027",
-	"LAT": 40.75616,
-	"LONG": -73.75094,
-	"BOROUGH": "QUEENS"
- },
- {
 	"BIN": "4161363",
 	"Address": "57-38 229 STREET",
 	"CD": "411",
@@ -42417,6 +42437,16 @@
 	"LOT": "00059",
 	"LAT": 40.74259,
 	"LONG": -73.76289,
+	"BOROUGH": "QUEENS"
+ },
+ {
+	"BIN": "4163160",
+	"Address": "61-14 CLOVERDALE BOULEVARD",
+	"CD": "411",
+	"BLOCK": "07648",
+	"LOT": "00072",
+	"LAT": 40.74985,
+	"LONG": -73.75129,
 	"BOROUGH": "QUEENS"
  },
  {
@@ -42800,16 +42830,6 @@
 	"BOROUGH": "QUEENS"
  },
  {
-	"BIN": "4171220",
-	"Address": "53-16 BROWVALE LANE",
-	"CD": "411",
-	"BLOCK": "08243",
-	"LOT": "00306",
-	"LAT": 40.76471,
-	"LONG": -73.73086,
-	"BOROUGH": "QUEENS"
- },
- {
 	"BIN": "4171225",
 	"Address": "251-23 52 AVENUE",
 	"CD": "411",
@@ -43127,16 +43147,6 @@
 	"LOT": "00019",
 	"LAT": 40.74605,
 	"LONG": -73.70186,
-	"BOROUGH": "QUEENS"
- },
- {
-	"BIN": "4178602",
-	"Address": "81-50 262 STREET",
-	"CD": "413",
-	"BLOCK": "08736",
-	"LOT": "00059",
-	"LAT": 40.74192,
-	"LONG": -73.70837,
 	"BOROUGH": "QUEENS"
  },
  {
@@ -43980,6 +43990,16 @@
 	"BOROUGH": "QUEENS"
  },
  {
+	"BIN": "4220754",
+	"Address": "187-03 104 AVENUE",
+	"CD": "412",
+	"BLOCK": "10366",
+	"LOT": "00058",
+	"LAT": 40.70612,
+	"LONG": -73.7699,
+	"BOROUGH": "QUEENS"
+ },
+ {
 	"BIN": "4220906",
 	"Address": "104-36 187 STREET",
 	"CD": "412",
@@ -44417,6 +44437,16 @@
 	"LOT": "00070",
 	"LAT": 40.70021,
 	"LONG": -73.73618,
+	"BOROUGH": "QUEENS"
+ },
+ {
+	"BIN": "4243445",
+	"Address": "115-23 225 STREET",
+	"CD": "413",
+	"BLOCK": "11289",
+	"LOT": "00024",
+	"LAT": 40.69814,
+	"LONG": -73.73318,
 	"BOROUGH": "QUEENS"
  },
  {
@@ -45130,6 +45160,16 @@
 	"BOROUGH": "QUEENS"
  },
  {
+	"BIN": "4270058",
+	"Address": "133-39 GUY R BREWER BOULEVARD",
+	"CD": "412",
+	"BLOCK": "12495",
+	"LOT": "00260",
+	"LAT": 40.67458,
+	"LONG": -73.77435,
+	"BOROUGH": "QUEENS"
+ },
+ {
 	"BIN": "4270063",
 	"Address": "172-30 BAISLEY BOULEVARD",
 	"CD": "412",
@@ -45540,16 +45580,6 @@
 	"BOROUGH": "QUEENS"
  },
  {
-	"BIN": "4286973",
-	"Address": "145-54 230 PLACE",
-	"CD": "413",
-	"BLOCK": "13487",
-	"LOT": "00074",
-	"LAT": 40.65982,
-	"LONG": -73.75009,
-	"BOROUGH": "QUEENS"
- },
- {
 	"BIN": "4287667",
 	"Address": "143-44 232 STREET",
 	"CD": "413",
@@ -45587,16 +45617,6 @@
 	"LOT": "00016",
 	"LAT": 40.66259,
 	"LONG": -73.73425,
-	"BOROUGH": "QUEENS"
- },
- {
-	"BIN": "4289207",
-	"Address": "140-19 255 STREET",
-	"CD": "413",
-	"BLOCK": "13605",
-	"LOT": "00028",
-	"LAT": 40.66037,
-	"LONG": -73.72892,
 	"BOROUGH": "QUEENS"
  },
  {
@@ -47480,6 +47500,16 @@
 	"BOROUGH": "QUEENS"
  },
  {
+	"BIN": "4491301",
+	"Address": "53-47 GAR 203 STREET",
+	"CD": "411",
+	"BLOCK": "07412",
+	"LOT": "00039",
+	"LAT": 40.74825,
+	"LONG": -73.7747,
+	"BOROUGH": "QUEENS"
+ },
+ {
 	"BIN": "4493937",
 	"Address": "85-14 GAR 261 STREET",
 	"CD": "413",
@@ -48770,6 +48800,16 @@
 	"BOROUGH": "QUEENS"
  },
  {
+	"BIN": "4620928",
+	"Address": "3119 29TH STREET",
+	"CD": "401",
+	"BLOCK": "00588",
+	"LOT": "00034",
+	"LAT": 40.76445,
+	"LONG": -73.92524,
+	"BOROUGH": "QUEENS"
+ },
+ {
 	"BIN": "4620938",
 	"Address": "147-15 21 AVENUE",
 	"CD": "407",
@@ -49027,16 +49067,6 @@
 	"LOT": "00001",
 	"LAT": 40.76223,
 	"LONG": -73.81275,
-	"BOROUGH": "QUEENS"
- },
- {
-	"BIN": "4623544",
-	"Address": "99-78 163 DRIVE",
-	"CD": "410",
-	"BLOCK": "14248",
-	"LOT": "01385",
-	"LAT": 40.65237,
-	"LONG": -73.8294,
 	"BOROUGH": "QUEENS"
  },
  {
@@ -49447,16 +49477,6 @@
 	"LOT": "00001",
 	"LAT": 40.72794,
 	"LONG": -73.85512,
-	"BOROUGH": "QUEENS"
- },
- {
-	"BIN": "4624022",
-	"Address": "83-61 116 ST",
-	"CD": "409",
-	"BLOCK": "03321",
-	"LOT": "00177",
-	"LAT": 40.70485,
-	"LONG": -73.83572,
 	"BOROUGH": "QUEENS"
  },
  {
@@ -52750,16 +52770,6 @@
 	"BOROUGH": "STATEN ISLAND"
  },
  {
-	"BIN": "5049263",
-	"Address": "292 RARITAN AVENUE",
-	"CD": "502",
-	"BLOCK": "03336",
-	"LOT": "00011",
-	"LAT": 40.59002,
-	"LONG": -74.09066,
-	"BOROUGH": "STATEN ISLAND"
- },
- {
 	"BIN": "5049306",
 	"Address": "8 HANCOCK STREET",
 	"CD": "502",
@@ -55067,6 +55077,16 @@
 	"LOT": "00010",
 	"LAT": 40.56315,
 	"LONG": -74.09949,
+	"BOROUGH": "STATEN ISLAND"
+ },
+ {
+	"BIN": "5175835",
+	"Address": "57 MAPLE TERRACE",
+	"CD": "502",
+	"BLOCK": "04082",
+	"LOT": "00009",
+	"LAT": 40.56321,
+	"LONG": -74.09929,
 	"BOROUGH": "STATEN ISLAND"
  },
  {
