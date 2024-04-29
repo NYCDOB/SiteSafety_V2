@@ -10290,6 +10290,16 @@
 	"BOROUGH": "MANHATTAN"
  },
  {
+	"BIN": "1083235",
+	"Address": "40 HARRISON STREET",
+	"CD": "101",
+	"BLOCK": "00142",
+	"LOT": "00025",
+	"LAT": 40.71952,
+	"LONG": -74.01087,
+	"BOROUGH": "MANHATTAN"
+ },
+ {
 	"BIN": "1083243",
 	"Address": "310 GREENWICH STREET",
 	"CD": "101",
@@ -12527,16 +12537,6 @@
 	"LOT": "00016",
 	"LAT": 40.81667,
 	"LONG": -73.92192,
-	"BOROUGH": "BRONX"
- },
- {
-	"BIN": "2000968",
-	"Address": "225 EAST  149 STREET",
-	"CD": "201",
-	"BLOCK": "02338",
-	"LOT": "00003",
-	"LAT": 40.8181,
-	"LONG": -73.92372,
 	"BOROUGH": "BRONX"
  },
  {
@@ -22220,26 +22220,6 @@
 	"BOROUGH": "BROOKLYN"
  },
  {
-	"BIN": "3052988",
-	"Address": "1211 FULTON STREET",
-	"CD": "303",
-	"BLOCK": "01842",
-	"LOT": "00066",
-	"LAT": 40.68083,
-	"LONG": -73.95298,
-	"BOROUGH": "BROOKLYN"
- },
- {
-	"BIN": "3052989",
-	"Address": "1209 FULTON STREET",
-	"CD": "303",
-	"BLOCK": "01842",
-	"LOT": "00067",
-	"LAT": 40.68077,
-	"LONG": -73.95305,
-	"BOROUGH": "BROOKLYN"
- },
- {
 	"BIN": "3053271",
 	"Address": "94 MACON STREET",
 	"CD": "303",
@@ -23477,16 +23457,6 @@
 	"LOT": "00044",
 	"LAT": 40.70667,
 	"LONG": -73.95179,
-	"BOROUGH": "BROOKLYN"
- },
- {
-	"BIN": "3063642",
-	"Address": "35 BROADWAY",
-	"CD": "301",
-	"BLOCK": "02469",
-	"LOT": "00001",
-	"LAT": 40.71098,
-	"LONG": -73.96731,
 	"BOROUGH": "BROOKLYN"
  },
  {
@@ -27000,16 +26970,6 @@
 	"BOROUGH": "BROOKLYN"
  },
  {
-	"BIN": "3138627",
-	"Address": "1168 52 STREET",
-	"CD": "312",
-	"BLOCK": "05661",
-	"LOT": "00032",
-	"LAT": 40.63482,
-	"LONG": -73.99676,
-	"BOROUGH": "BROOKLYN"
- },
- {
 	"BIN": "3138659",
 	"Address": "1105 53 STREET",
 	"CD": "312",
@@ -29397,16 +29357,6 @@
 	"LOT": "00061",
 	"LAT": 40.64632,
 	"LONG": -73.90546,
-	"BOROUGH": "BROOKLYN"
- },
- {
-	"BIN": "3230115",
-	"Address": "1558 ROCKAWAY PARKWAY",
-	"CD": "318",
-	"BLOCK": "08204",
-	"LOT": "00061",
-	"LAT": 40.64256,
-	"LONG": -73.8999,
 	"BOROUGH": "BROOKLYN"
  },
  {
@@ -38110,16 +38060,6 @@
 	"BOROUGH": "QUEENS"
  },
  {
-	"BIN": "4052316",
-	"Address": "69-60 110 STREET",
-	"CD": "406",
-	"BLOCK": "02221",
-	"LOT": "00035",
-	"LAT": 40.72396,
-	"LONG": -73.8427,
-	"BOROUGH": "QUEENS"
- },
- {
 	"BIN": "4052499",
 	"Address": "110-47 JEWEL AVENUE",
 	"CD": "406",
@@ -46097,16 +46037,6 @@
 	"LOT": "00001",
 	"LAT": 40.72327,
 	"LONG": -73.84993,
-	"BOROUGH": "QUEENS"
- },
- {
-	"BIN": "4434686",
-	"Address": "188-10 WOODHULL AVENUE",
-	"CD": "412",
-	"BLOCK": "10815",
-	"LOT": "00014",
-	"LAT": 40.71035,
-	"LONG": -73.77055,
 	"BOROUGH": "QUEENS"
  },
  {
