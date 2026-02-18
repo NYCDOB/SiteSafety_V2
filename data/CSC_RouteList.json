@@ -990,16 +990,6 @@
 	"BOROUGH": "MANHATTAN"
  },
  {
-	"BIN": "1007174",
-	"Address": "178 MOTT STREET",
-	"CD": "102",
-	"BLOCK": "00479",
-	"LOT": "00040",
-	"LAT": 40.72035,
-	"LONG": -73.99578,
-	"BOROUGH": "MANHATTAN"
- },
- {
 	"BIN": "1007207",
 	"Address": "43 CROSBY STREET",
 	"CD": "102",
@@ -1007,16 +997,6 @@
 	"LOT": "00002",
 	"LAT": 40.72168,
 	"LONG": -73.9985,
-	"BOROUGH": "MANHATTAN"
- },
- {
-	"BIN": "1007238",
-	"Address": "524 BROADWAY",
-	"CD": "102",
-	"BLOCK": "00483",
-	"LOT": "00017",
-	"LAT": 40.72269,
-	"LONG": -73.99847,
 	"BOROUGH": "MANHATTAN"
  },
  {
@@ -1197,16 +1177,6 @@
 	"LOT": "00031",
 	"LAT": 40.73244,
 	"LONG": -73.9882,
-	"BOROUGH": "MANHATTAN"
- },
- {
-	"BIN": "1009135",
-	"Address": "815 BROADWAY",
-	"CD": "102",
-	"BLOCK": "00563",
-	"LOT": "00033",
-	"LAT": 40.73303,
-	"LONG": -73.99148,
 	"BOROUGH": "MANHATTAN"
  },
  {
@@ -11820,16 +11790,6 @@
 	"BOROUGH": "MANHATTAN"
  },
  {
-	"BIN": "1090939",
-	"Address": "354 WEST   52 STREET",
-	"CD": "104",
-	"BLOCK": "01042",
-	"LOT": "00054",
-	"LAT": 40.76413,
-	"LONG": -73.98732,
-	"BOROUGH": "MANHATTAN"
- },
- {
 	"BIN": "1090940",
 	"Address": "14 WHITE STREET",
 	"CD": "101",
@@ -14330,16 +14290,6 @@
 	"BOROUGH": "BRONX"
  },
  {
-	"BIN": "2012694",
-	"Address": "2110 CROTONA AVENUE",
-	"CD": "206",
-	"BLOCK": "03096",
-	"LOT": "00048",
-	"LAT": 40.84838,
-	"LONG": -73.88825,
-	"BOROUGH": "BRONX"
- },
- {
 	"BIN": "2012695",
 	"Address": "2112 CROTONA AVENUE",
 	"CD": "206",
@@ -15327,16 +15277,6 @@
 	"LOT": "00043",
 	"LAT": 40.84241,
 	"LONG": -73.85148,
-	"BOROUGH": "BRONX"
- },
- {
-	"BIN": "2042522",
-	"Address": "518 MORRIS PARK AVENUE",
-	"CD": "211",
-	"BLOCK": "04016",
-	"LOT": "00008",
-	"LAT": 40.84201,
-	"LONG": -73.87154,
 	"BOROUGH": "BRONX"
  },
  {
@@ -18790,16 +18730,6 @@
 	"BOROUGH": "BRONX"
  },
  {
-	"BIN": "2130956",
-	"Address": "47GAR TIER STREET",
-	"CD": "210",
-	"BLOCK": "05633",
-	"LOT": "00003",
-	"LAT": 40.84793,
-	"LONG": -73.78999,
-	"BOROUGH": "BRONX"
- },
- {
 	"BIN": "2130963",
 	"Address": "860 CONCOURSE VILLAGE EAST",
 	"CD": "204",
@@ -19667,16 +19597,6 @@
 	"LOT": "00052",
 	"LAT": 40.83031,
 	"LONG": -73.89017,
-	"BOROUGH": "BRONX"
- },
- {
-	"BIN": "2817480",
-	"Address": "2043 WEBSTER AVENUE",
-	"CD": "205",
-	"BLOCK": "03142",
-	"LOT": "00065",
-	"LAT": 40.85126,
-	"LONG": -73.89919,
 	"BOROUGH": "BRONX"
  },
  {
@@ -36210,6 +36130,16 @@
 	"BOROUGH": "BROOKLYN"
  },
  {
+	"BIN": "3428936",
+	"Address": "11 WILSON AVE",
+	"CD": "304",
+	"BLOCK": "03155",
+	"LOT": "00108",
+	"LAT": 40.70356,
+	"LONG": -73.93033,
+	"BOROUGH": "BROOKLYN"
+ },
+ {
 	"BIN": "3428938",
 	"Address": "2 BLUE SLIP",
 	"CD": "301",
@@ -41417,6 +41347,16 @@
 	"LOT": "00098",
 	"LAT": 40.71733,
 	"LONG": -73.83385,
+	"BOROUGH": "QUEENS"
+ },
+ {
+	"BIN": "4052812",
+	"Address": "120-55 QUEENS BOULEVARD",
+	"CD": "409",
+	"BLOCK": "02274",
+	"LOT": "00002",
+	"LAT": 40.714,
+	"LONG": -73.828,
 	"BOROUGH": "QUEENS"
  },
  {
@@ -50170,16 +50110,6 @@
 	"BOROUGH": "QUEENS"
  },
  {
-	"BIN": "4297307",
-	"Address": "404 CROSS BAY BOULEVARD",
-	"CD": "414",
-	"BLOCK": "15400",
-	"LOT": "00092",
-	"LAT": 40.61253,
-	"LONG": -73.81927,
-	"BOROUGH": "QUEENS"
- },
- {
 	"BIN": "4298060",
 	"Address": "729 ALMONT ROAD",
 	"CD": "414",
@@ -56537,16 +56467,6 @@
 	"LOT": "00062",
 	"LAT": 40.76736,
 	"LONG": -73.87198,
-	"BOROUGH": "QUEENS"
- },
- {
-	"BIN": "4833056",
-	"Address": "116-13 SUTPHIN BOULEVARD",
-	"CD": "412",
-	"BLOCK": "12201",
-	"LOT": "00004",
-	"LAT": 40.68222,
-	"LONG": -73.79228,
 	"BOROUGH": "QUEENS"
  },
  {
