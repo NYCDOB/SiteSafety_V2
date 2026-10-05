@@ -7030,16 +7030,6 @@
 	"BOROUGH": "Manhattan"
  },
  {
-	"BIN": "1045321",
-	"Address": "404 EAST   63 STREET",
-	"CD": "108",
-	"BLOCK": "01457",
-	"LOT": "00145",
-	"LAT": 40.76173,
-	"LONG": -73.95984,
-	"BOROUGH": "Manhattan"
- },
- {
 	"BIN": "1045381",
 	"Address": "1175 YORK AVENUE",
 	"CD": "108",
@@ -8378,16 +8368,6 @@
 	"LAT": 40.81239,
 	"LONG": -73.94161,
 	"BOROUGH": "Manhattan"
- },
- {
-	"BIN": "1053899",
-	"Address": "506 LENOX AVENUE",
-	"CD": "110",
-	"BLOCK": "01734",
-	"LOT": "00001",
-	"LAT": 40.81429,
-	"LONG": -73.939,
-	"BOROUGH": "MANHATTAN"
  },
  {
 	"BIN": "1053938",
@@ -15430,26 +15410,6 @@
 	"BOROUGH": "Bronx"
  },
  {
-	"BIN": "2017710",
-	"Address": "3509 JEROME AVENUE",
-	"CD": "207",
-	"BLOCK": "03324",
-	"LOT": "00142",
-	"LAT": 40.88232,
-	"LONG": -73.88216,
-	"BOROUGH": "BRONX"
- },
- {
-	"BIN": "2017711",
-	"Address": "3491 JEROME AVENUE",
-	"CD": "207",
-	"BLOCK": "03324",
-	"LOT": "00144",
-	"LAT": 40.88222,
-	"LONG": -73.88228,
-	"BOROUGH": "BRONX"
- },
- {
 	"BIN": "2017976",
 	"Address": "3057 PERRY AVENUE",
 	"CD": "207",
@@ -17980,16 +17940,6 @@
 	"BOROUGH": "Bronx"
  },
  {
-	"BIN": "2109921",
-	"Address": "2072 LAFONTAINE AVENUE",
-	"CD": "206",
-	"BLOCK": "03069",
-	"LOT": "00001",
-	"LAT": 40.84872,
-	"LONG": -73.89249,
-	"BOROUGH": "Bronx"
- },
- {
 	"BIN": "2110509",
 	"Address": "1040 GAR CASTLEHILL AVENUE",
 	"CD": "209",
@@ -18148,16 +18098,6 @@
 	"LAT": 40.80882,
 	"LONG": -73.88625,
 	"BOROUGH": "Bronx"
- },
- {
-	"BIN": "2117773",
-	"Address": "1780 GAR TOPPING AVENUE",
-	"CD": "205",
-	"BLOCK": "02799",
-	"LOT": "00024",
-	"LAT": 40.8461,
-	"LONG": -73.90563,
-	"BOROUGH": "BRONX"
  },
  {
 	"BIN": "2117792",
@@ -21477,16 +21417,6 @@
 	"LOT": "00077",
 	"LAT": 40.68645,
 	"LONG": -73.9933,
-	"BOROUGH": "Brooklyn"
- },
- {
-	"BIN": "3006089",
-	"Address": "251 WARREN STREET",
-	"CD": "302",
-	"BLOCK": "00390",
-	"LOT": "00078",
-	"LAT": 40.68648,
-	"LONG": -73.99336,
 	"BOROUGH": "Brooklyn"
  },
  {
@@ -27317,7 +27247,7 @@
 	"LOT": "00035",
 	"LAT": 40.66595,
 	"LONG": -73.91302,
-	"BOROUGH": "BROOKLYN"
+	"BOROUGH": "Brooklyn"
  },
  {
 	"BIN": "3081460",
@@ -33477,7 +33407,7 @@
 	"LOT": "00056",
 	"LAT": 40.57557,
 	"LONG": -73.9495,
-	"BOROUGH": "BROOKLYN"
+	"BOROUGH": "Brooklyn"
  },
  {
 	"BIN": "3246280",
@@ -37000,16 +36930,6 @@
 	"BOROUGH": "BROOKLYN"
  },
  {
-	"BIN": "3427145",
-	"Address": "138 OSBORN STREET",
-	"CD": "316",
-	"BLOCK": "03523",
-	"LOT": "00028",
-	"LAT": 40.66894,
-	"LONG": -73.90897,
-	"BOROUGH": "Brooklyn"
- },
- {
 	"BIN": "3427210",
 	"Address": "160 2 AVENUE",
 	"CD": "306",
@@ -40367,6 +40287,16 @@
 	"LOT": "00001",
 	"LAT": 40.71701,
 	"LONG": -73.96286,
+	"BOROUGH": "Brooklyn"
+ },
+ {
+	"BIN": "3430649",
+	"Address": "138 OSBORN STREET",
+	"CD": "316",
+	"BLOCK": "03523",
+	"LOT": "00028",
+	"LAT": 40.66894,
+	"LONG": -73.90897,
 	"BOROUGH": "Brooklyn"
  },
  {
@@ -50667,7 +50597,7 @@
 	"LOT": "00012",
 	"LAT": 40.68129,
 	"LONG": -73.81702,
-	"BOROUGH": "QUEENS"
+	"BOROUGH": "Queens"
  },
  {
 	"BIN": "4250885",
@@ -54097,7 +54027,7 @@
 	"LOT": "00019",
 	"LAT": 40.75901,
 	"LONG": -73.79248,
-	"BOROUGH": "QUEENS"
+	"BOROUGH": "Queens"
  },
  {
 	"BIN": "4523252",
@@ -55340,6 +55270,16 @@
 	"BOROUGH": "Queens"
  },
  {
+	"BIN": "4621129",
+	"Address": "10-39 49 AVENUE",
+	"CD": "402",
+	"BLOCK": "00044",
+	"LOT": "00017",
+	"LAT": 40.74332,
+	"LONG": -73.9522,
+	"BOROUGH": "Queens"
+ },
+ {
 	"BIN": "4622952",
 	"Address": "212-03 23 AVENUE",
 	"CD": "407",
@@ -55497,16 +55437,6 @@
 	"LOT": "00185",
 	"LAT": 40.67027,
 	"LONG": -73.83539,
-	"BOROUGH": "QUEENS"
- },
- {
-	"BIN": "4623580",
-	"Address": "149-53 GAR HAWTREE STREET",
-	"CD": "410",
-	"BLOCK": "11562",
-	"LOT": "00170",
-	"LAT": 40.66979,
-	"LONG": -73.83517,
 	"BOROUGH": "QUEENS"
  },
  {
@@ -56505,16 +56435,6 @@
 	"CD": "413",
 	"BLOCK": "13062",
 	"LOT": "00061",
-	"LAT": 40.66931,
-	"LONG": -73.75478,
-	"BOROUGH": "QUEENS"
- },
- {
-	"BIN": "4625047",
-	"Address": "219-47 EDGEWOOD AVENUE",
-	"CD": "413",
-	"BLOCK": "13062",
-	"LOT": "00060",
 	"LAT": 40.66931,
 	"LONG": -73.75478,
 	"BOROUGH": "QUEENS"
